@@ -1,0 +1,236 @@
+
+
+
+.asterixPres{
+    /*color: red;*/
+    font-family: cursive;
+}
+
+.clearboth{
+    clear:both;
+}
+
+.navigation span a{
+    color:rgba(255, 255, 255, 0.75)
+}
+
+.navigation span a:hover {
+    text-decoration: none;
+    color:white;
+}
+
+.navigation {
+    float: left;
+    margin-left: 20%;
+}
+
+.navigation span{
+	cursor:pointer;
+}
+.navigation span:hover{
+	color: white;
+}
+
+.navigation .fas{
+	margin:0 1em;
+}
+.navigation .actual a{
+	color: white;
+	font-weight: bold;
+}
+
+
+#imgWEI {
+    background-image: url(../content/carte_WEI.png);
+    background-size: 100%;
+    height: 600px;
+    background-repeat-y: no-repeat;
+}
+
+#banner {
+    padding: 2em;
+    /*background-image: url(../images/asterixObelix.jpeg);*/
+    /*background-size: 26%;*/
+    /*background-repeat: repeat-x;*/
+    background-color: #6090b1;
+    border-bottom: 1px solid gray;
+}
+
+.image{
+	width:20%;
+}
+
+.post .content {
+    width: 100%;
+    padding: 3em 3em;
+}
+
+p {
+    margin: 0 0 2em 0;
+    font-size: 1.2em;
+}
+
+.post .content header p {
+    font-size: 1.1em;
+}
+
+#main .inner header p.info {
+    font-size: 1.5em;
+}
+
+.centerBloc{
+	text-align: center;
+}
+
+
+.contentCarte{
+    margin-bottom: 2em;
+    margin-top: 1.5em;
+	min-height: 500px;
+}
+
+
+
+/*#carte{
+
+	
+}*/
+
+#residenceAB {
+    width: 24%;
+    height: 140px;
+    position: relative;
+    top: 130px;
+    left: 24%;
+    border-radius: 300px;
+    cursor: pointer;
+}
+#residenceAB:hover{
+    background: #f5d47869;
+    transition: 0.6s;
+}
+
+#mainM{
+    margin:0em;
+}
+#carte {
+    background-image: url(../images/carte_IUT.jpg);
+    background-size: 100%;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    height: 700px;
+    width: 95%;
+    background-color: #ffffff;
+    transition: 0.5s;
+}
+
+.rowContent{
+    width:100%;
+
+}
+.row-2{
+    width:16%;
+    float:left;
+}
+.row-6 {
+    width:68%;
+    float:left;
+}
+
+.liste {
+    margin-left: 1em;
+}
+.titre {
+    font-size: 1.1em;
+    font-weight: bold;
+}
+.element {
+    cursor: pointer;
+}
+.element:hover {
+    font-weight: bold;
+    color: #2aabe2;
+    /*transition: 0.3s;*/
+}
+.element.selected{
+    font-weight: bold;
+    color: #2aabe2;
+}
+
+
+div#detailsInfo {
+    width: 100%;
+    padding: 2em 10%;
+}
+
+#detailsInfo .titre {
+    font-size: 2.5em;
+    border: 3px solid #e4e4e4;
+    padding: 0.2em 0.9em;
+    text-align: center;
+    margin-bottom: 0.7em;
+    color: #e97013;
+    border-radius: 7px;
+}
+p.summary {
+    font-size: 1.1em;
+    padding-right: 1em;
+}
+
+
+#img1{
+    background-size: 100%; 
+}
+
+div#img2 {
+    background-size: 100%;
+}   
+
+.rowButton {
+    width: 60%;
+        margin-left: 0.2em;
+}
+.row-mid{
+    width: 50%;
+    float: left;
+}
+
+div#previousAventure {
+    text-align: center;
+    border: 2px solid #e4e4e4;
+    font-size: 2em;
+    border-radius: 5px;
+    line-height: 1.6em;
+    margin-right: 5px;
+    cursor:pointer;
+    color: #2aabe2;
+}
+div#nextAventure {
+    text-align: center;
+    border: 2px solid #e4e4e4;
+    font-size: 2em;
+    border-radius: 5px;
+    line-height: 1.6em;
+    margin-left: 5px;
+    cursor:pointer;
+    color: #2aabe2;
+}
+
+div#previousAventure:hover {
+    border-color: #2aabe2;
+    transition: 0.2s;
+    /*color:white;*/
+}
+div#nextAventure:hover {
+    border-color: #2aabe2;
+    transition: 0.2s;
+    /*color:white;*/
+}
+
+
+
+
+
+
+
+
