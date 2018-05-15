@@ -22,7 +22,7 @@
 
 		<!-- Header -->
 			<header id="header">
-				<a href="index.html" class="logo"><strong>Astérix</strong> by CDP2018</a>
+				<a href="/" class="logo"><strong>Astérix</strong> by CDP2018</a>
 				<div class="navigation">
 					<span class=""><a href="index.php">Introduction</a></span>
 					<i class="fas fa-angle-right"></i>
