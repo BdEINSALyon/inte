@@ -57,7 +57,7 @@ function loadImgTxt(){
 		console.log(id);
 
 	// On reset
-	$("#detailsInfo").css('background-color','#	')
+	$("#detailsInfo").css('background-color','#ffffff')
 
 
 	// Récupère l'image correspondante
