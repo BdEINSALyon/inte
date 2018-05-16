@@ -75,7 +75,7 @@
 									<div class="element">Filière</div>
 									<div class="element">Découvrir Lyon</div>
 									<div class="element">Recette du bizuth magique</div>
-
+                                    <a href="360.html">Turne à 360°</a>
 									<div class="btnBox">
 										<div class="titre">Naviguer dans le village</div>
 

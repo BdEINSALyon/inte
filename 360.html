@@ -1,0 +1,113 @@
+<!DOCTYPE HTML>
+<!--
+	Binary by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>Astérix By CdpRecords</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="css/style-global.css" />
+
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
+
+		<link rel="stylesheet prefetch"
+			  href="https://cdn.rawgit.com/mistic100/Photo-Sphere-Viewer/3.1.0/dist/photo-sphere-viewer.min.css">
+		<style class="cp-pen-styles">
+			#photosphere {
+				height: 600px;
+				width: 800px;
+				margin: 0 auto;
+			}
+		</style>
+	</head>
+	<body>
+
+		<!-- Header -->
+			<header id="header">
+				<a href="/" class="logo"><strong>Astérix</strong> by CDP2018</a>
+				<div class="navigation">
+					<span class=""><a href="index.php">Introduction</a></span>
+					<i class="fas fa-angle-right"></i>
+					<span class=""><a href="mot.php">Mot aux parents</a></span>
+					<i class="fas fa-angle-right"></i>
+					<span class=""><a href="carte.php">Découverte du village</a></span>
+					<i class="fas fa-angle-right"></i>
+					<span class=""><a href="todo.php">To-Do-List</a></span>
+				</div>
+				<nav>
+					<!--<a href="#menu">Menu</a>-->
+				</nav>
+			</header>
+
+		<!-- Nav
+			<nav id="menu">
+				<ul class="links">
+					<li><a href="index.html">Home</a></li>
+					<li><a href="generic.html">Generic</a></li>
+					<li><a href="elements.html">Elements</a></li>
+				</ul>
+			</nav> -->
+
+		<!-- Main -->
+			<section id="main">
+				<div class="inner">
+					<!--<div class="image fit">
+						<img src="images/pic11.jpg" alt="" />
+					</div>-->
+					<header>
+						<h1>Découverte des chaumières</h1>
+					</header>
+					<div class="centerBloc">
+						<div id="photosphere" style="height: 100%;"></div>
+					</div>
+				</div>
+			</section>
+
+		
+		<!-- Footer -->
+			<footer id="footer">
+				<ul class="icons">
+					<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+					<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+					<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+				</ul>
+				<div class="copyright">
+					<!--&copy; Untitled. Design: <a href="https://templated.co">TEMPLATED</a>. Images: <a href="https://unsplash.com">Unsplash</a>.-->
+				</div>
+			</footer>
+		<script src="https://ajax.googleapis.com/ajax/libs/threejs/r70/three.min.js"></script>
+		<script src="https://cdn.rawgit.com/mistic100/Photo-Sphere-Viewer/3.1.0/dist/photo-sphere-viewer.min.js"></script>
+
+		<script>
+			var laPhotosphere = new PhotoSphereViewer({
+            panorama: './images/photospheres/escalier.jpg',
+            container: 'photosphere',
+            loading_img: 'https://raw.githubusercontent.com/mistic100/Photo-Sphere-Viewer/3.1.0/example/photosphere-logo.gif',
+            navbar: 'autorotate zoom download fullscreen',
+            caption: 'Escalier du bâtiment des 1A',
+            default_fov: 65,
+            mousewheel: false,
+            size: {
+                height: 600
+            }
+        });
+		</script>
+		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+				integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+				crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+				integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+				crossorigin="anonymous"></script>
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
