@@ -14,6 +14,7 @@ $(document).ready( function() {
 		loadImgTxt();
 	});
 
+	// Pour aller à l'aventure suivante
 	$("#previousAventure").click( function(){
 		// console.log("ADD");
 		var actualSeclected = $(".selected");
