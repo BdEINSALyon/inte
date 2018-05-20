@@ -20,4 +20,4 @@ deploy:
   only:
     - inte
   script:
-    - upgrade --environment "Production" --new-image "$CI_REGISTRY_IMAGE:latest" --stack inte --service inte-inte
+    - upgrade --environment "Production" --new-image "$CI_REGISTRY_IMAGE:latest" --stack integration --service integration-integration
