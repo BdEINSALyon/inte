@@ -1,27 +1,73 @@
-La famille (toujours bien entouré) <br>
+<strong>PLANNING</strong> <br>
 
-Tu sais ce qu’on dit, « on ne choisit pas sa famille… » Et bien à l’INSA si ! En fait c’est plus précisément nous les Cdp qui s’en chargeons pour toi. En t’attribuant un parrain, nous t’attribuons également une famille puisque tu rejoindras celle de ton parrain et tout ça choisi en fonction de tes centres d’intérêts et de ta personnalité (il faut donc absolument remplir le questionnaire de parrainage mais ça sera expliqué un peu plus loin dans le poly)<br>
+<div class="blocEtapeInte">
+	<ul>
+	<li> Chaîne d’intégration (Des jeux tu feras) </li>
 
-Ta famille, c’est tout plein de personnes avec laquelle vous vous battrez coute que coute pendant l’inté pour défendre vos couleurs ! Allez, je spoil un peu, prépare tes cordes vocales et ton maillot de bain mon petit bizuth ! <br>
+	<li> Soirée d’intégration (Enjaillé tu seras) </li>
 
-Mais la famille ne se résume pas à l’inté car avec elle tu partageras de grands repas de famille pleins de bonne humeur tous les soirs après les cours. Mais tu connaîtras également les apéros de familles, la fameuse Saint Parrain (des trucs de famille dans une cave… tu comprendras plus tard) et tout plein d’autres choses. <br><br>
+	<li> Plouc des Familles (Ta famille tu défendras) </li>
 
-  
+	<li> Soirée de parrainage (Ton parrain/ta marraine tu admireras) </li>
 
-  
+	<li> Rallye (Lyon tu parcourras) </li>
 
-Ton parrain, ta marraine (ton idole) <br>
+	<li> WEI (Connaissances tu feras…) </li>
+	</ul>
+</div>
 
-Aaaahh les parrains, marraines… Ton parrain ou ta marraine c’est celui qui sera là dès ton arrivée sur le campus pour t’accueillir après avoir attendu ton arrivée avec impatience pendant les vacances (car oui il ne te connaitra pas encore mais t’aimera déjà énormément !).  Il t’accompagnera lors de tes premiers pas à l’INSA ainsi que tout au long de l’année pour te soutenir et te donner des conseils. <br>
 
-Bref, il ou elle sera toujours là pour te chouchouter, toi son petit bizuth adoré. <br>
+<div id="inte_Debut">
+<img id="" src="content/img/inte_Debut.svg"></img>
+</div>
 
-  
+<div class="clearboth"></div>
 
-  <br>
+<strong>LA SOIREE D’INTEGRATION</strong>  <br>
 
-Cdp (en toute modestie et objectivité : la crème des Marios) <br>
 
-Bah oui c’est vrai ça, on parle d’intégration mais qui l’organise ? Et bien c’est nous, tes (beaux et merveilleux) Cdp. Alors pour commencer, Cdp c’est un acronyme pour Comité de Parrainage (ou Caleçon d’ultrabeauf Péruvien c’est toi qui voit). C’est un groupe de 100 (belles et merveilleuses) personnes qui ont tooouut donné pendant une semaine de campagne de folie pour se faire élire et avoir la chance de t’organiser une inté mémorable (promesse faite, cette inté tu t’en souviendras) ! C’est donc nous qui avons rédigé le poly (appelé comme ça car il a longtemps été en version papier #RIPpoly ) que tu lis en ce moment et qui organiserons les activités de l’inté. <br>
+ 
 
-Que ce soit clair tu vas adorer mais putain t’es pas prêt ! 
+Eh oui… après ton arrivée et la découverte de ta nouvelle famille, tes Cdp’s adorés t’ont préparé un show du futur! C’est LA soirée où toute l’attention sera sur toi (surtout celle de Falbala...) ! Tout commence samedi soir. Tu rejoindras toute ta famille sur la pelouse du PC, vêtu de ton plus beau déguisement d’Astérix, et n’oublie pas ta moustache dorée ni ta petite gourde de potion magique (#soit lpb) ! Tout en évitant les romains sur le chemin, à tout moment ça décale au gymnase (#RIP capelle), là où démarrera ton histoire avec tous les autres gaulois de l’INSA ! Cette soirée te fera oublier toute l’appréhension que tu peux avoir et marquera le début de ta nouvelle aventure ! Tu verras les Cdp’s se mettre en scène juste pour toi petit bizuth... Mais toi aussi tu mettras le feu au gymnase en assistant (et participant?) à l’élection de Miss et Mister bizuth, et en te démenant pour le lauréat du meilleur costume (fais péter ta moustache et tes plus belles ailes sur ton casque) et de l’objet le plus insolite (fais péter...ce que tu veux!) ! A la fin de ce magnifique spectacle rythmé par la douce mélodie d’Assurancetourix, ta petite famille sera là (#repère le caddie) et c’est aux Humas que tu commenceras à apprendre nos chansons ! C’est pas ce soir-là que tu sauras chanter les lyonnais mais ça viendra… <br>
+
+ <br>
+
+<strong>PLOUC</strong>   <br>
+
+<img id="inte_Plouc" src="content/img/inte_Plouc.svg"></img>
+
+L’inté n’est pas finie (elle commence à peine), le dimanche c’est aux couleurs de ta famille que tu chanteras! C’est lors de cette Partie Loufoque d’Origami Unilatéralement Caliente que, toi, petit Astérix et ta famille d’amour, vous allez devoir vous unir et vous souder pour surmonter des épreuves plus dures que les menhirs d’Obélix … Entre lancers de romains, sauvetages de falbalas en détresse et courses sur sangliers il te faudra te faire voir et entendre sur tout le campus ! Pour cela n’oublie pas une (ou plusieurs) ENORMES pancartes, un cri de guerre lynchant ET bien sûr ton resplendissant casque ailé sur ta belle chevelure dorée … Rends ta famille fière et mène-la (peut-être #zéro magouille) à la victoire !  <br>
+
+ <br>
+
+<strong>SOIREE DE PARRAINAGE </strong>  <br>
+
+ 
+
+Après ces premiers jours de cours exaltants mais pour le moins éprouvants, tu auras surement besoin du réconfort (et de l’amour?) que ton parrain/ ta marraine (qui t’aime déjà d’ailleurs) représente pour toi ! Mais minute Astérix, c’est l’heure pour toi de lui montrer qui est le meilleur biz’ ! Il te faudra pour cela le retrouver à la K-Fêt en traversant le village gaulois (tu n’auras pas besoin de porter ta moustache dorée ce soir-là exceptionnellement)… vous irez vous affronter à travers plein de mini-jeux et activités ! Pour montrer que le meilleur des parrains c’est bien le tien vous porterez le même signe distinctif lors de cette soirée, soyez originaux ! Vous aurez aussi l’occasion d’immortaliser ce lien générationnel au stand photo spécialement prévu pour l’occasion. Car c’est avant tout votre soirée et une bonne occasion pour apprendre à vous connaître en vous éclatant, alors sois au taquet !  <br>
+
+ 
+
+ 
+<br>
+ 
+
+<strong>LE RALLYE </strong>  <br>
+
+<img id="inte_Rallye" src="content/img/inte_Rallye.svg"></img>
+
+Pendant le Rallye, il te faudra sortir de ton petit village gaulois préféré, traverser la foret et affronter l’inconnue… Revêtis ton pantalon rouge, ton beau casque, ta moustache et n’oublie pas ton épée car il est temps pour toi de montrer aux lyonnais qui sont les meilleurs gaulois ! En effet, le jeudi après-midi on n’a pas cours mais pas question de commencer à bosser ton RAMES (t’auras l’année pour ça #QCM), c’est le moment pour toi d’aller visiter ta nouvelle ville ! Avec ta famille vous allez tous ensemble parcourir Lyon et réaliser les épreuves et défis que les Cdp’s t’ont organisés avec soin ! Le tout est de s’éclater et de mettre l’ambiance sur toutes les places de Lyon ! Et crois-en l’expérience tu ne connaîtras jamais de meilleur voyage en métro (#Paquito)... A la fin de la journée il est temps d’atteindre l’avant-dernière péripétie de l’inté qui se déroule dans la demeure du chef de Villeurbanne: «la mairie ». Le maire vous accueillera alors avec toute sa jovialité et vous fera son fameux discours de bienvenue, ne t’inquiètes pas ça sera assez concis car il a tendance à bien parler… Le tout se terminera autour d’un grand banquet offert par la mairie, histoire de manger un bon sanglier rôtit bien mérité après toutes les péripéties de la journée ! <br>
+
+
+
+
+
+<div class="clearboth"></div>
+
+ <br>
+
+<strong>LE WEI </strong>  <br>
+
+ 
+
+AAHH voici enfin l’étape finale de l’inté et c’est du TRES TRES LOURD ! Mais ce sont nos chers, précieux et adorés CoWEI qui vont te présenter cet événement de type ENORME. Tout ce qu’on peut te dire c’est qu’il n’est à manquer sous aucun prétexte ! 

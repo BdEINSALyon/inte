@@ -31,7 +31,7 @@
 				<nav>
 					<!--<a href="#menu">Menu</a>-->
 				</nav>
-			</header>co
+			</header>
 
 		<!-- Nav
 			<nav id="menu">
