@@ -1,0 +1,34 @@
+
+
+<img id="restau_Pannau" src="content/img/restau_Pannau.svg"></img>
+
+Si tu viens d’arriver en France, tu dois savoir que la gastronomie est au centre de notre culture. C’est pourquoi l’INSA propose un nombre incroyable de quatre restaurants pour convenir à tous tes besoins et à toutes tes envies. Voilà une petite description de ces fameux restaurants. <br> <br>
+
+  
+
+<strong>L'Olivier : </strong><br>
+
+<img id="restau_Olivier" src="content/img/restau_Olivier.svg"></img>
+
+Viens découvrir la culture Italienne petit bizuth, à travers une multitude de pizzas, telles que celles au kebab, au poulet curry, à l’Alsacienne, à la Lyonnaise.   <br> <br> 
+
+<strong>Le Grillon : </strong><br> 
+
+Si tu aimes la viande, mais surtout les patates, frites, pommes dauphines, potatoes, pommes sautées, alors le grillon est fait pour toi. Car ici, on aime la pomme de terre, son histoire, et son image à travers le monde. Mais aussi et surtout la viande, et ça, ça fait plaiz.  <br><br>
+
+  
+
+<strong>Le RI : </strong><br> Il s’agit de ta cantine du lycée, mais en plus grande, avec plus de queue et plus de féculents. Tu y feras de nombreux repas de famille. Ici on mange tôt (18h ,mais ne t'inquiète pas, tu t'y feras). <br> <br>
+
+  
+
+
+<img id="restau_RI" src="content/img/restau_RI.svg"></img>
+
+<strong>Le Prévert : </strong><br> Rien à voir avec Jacques, ici tu pourras emporter une multitude de sandwiches froids, de burgers, de frites et aussi un super gobelet de soda, grâce à une machine exceptionnelle qui marche tout le temps. Aussi, les après midi, tu pourras chercher des goûters, des gâteaux, des cafés,et encore du soda. <br> <br>
+
+  
+
+<strong>Le Pied du Saule : </strong><br>Tu fais partie du personnel de l’INSA ? Non ? Alors t’y mangeras pas. 
+
+ 

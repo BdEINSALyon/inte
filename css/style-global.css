@@ -10,6 +10,10 @@
     clear:both;
 }
 
+.hidden{
+    display: none;
+}
+
 .navigation span a{
     color:rgba(255, 255, 255, 0.75)
 }
@@ -85,10 +89,11 @@ p {
 
 
 .contentCarte{
-    margin-bottom: 2em;
+    margin-bottom: 0em;
     margin-top: 1.5em;
 	min-height: 500px;
 }
+
 
 
 
@@ -103,12 +108,9 @@ p {
 }
 
 #logoDroiteHome img {
-    top: -2.5em;
-    right: 7em;
-    position: relative;
-    width: 230%;
+    width: 130%;
+    margin: 2em 0em 0 -2em;
 }
-
 #logoGaucheHome img{
     width: 100%;
     top: 3em;
@@ -220,9 +222,7 @@ p.summary {
     background-size: 100%; 
 }
 
-div#img2 {
-    background-size: 100%;
-}   
+
 
 .rowButton {
     width: 60%;
@@ -276,6 +276,7 @@ button.decouvrir {
     line-height: 3px;
     padding: 0em 0.8em;
     margin-left: 1.5em;
+
 }
 button.decouvrir:hover{
     background-color: rgba(144, 144, 144, 0.075);
@@ -400,9 +401,23 @@ img#event_Raid {
 }
 
 div#img2 {
-    background-size: 130%;
+    background-size: 91%;
     position: relative;
-    left: -2em;
+    left: 2em;
+}
+div#home_3 {
+    background-size: 90%;
+    margin: 0em 0 0em 0;
+    /* float: left; */
+}
+
+#accordion gras{
+    font-weight: bold;
+}
+
+.mid-6 {
+    width: 50%;
+    float: left;
 }
 
 img#team_Mif {
@@ -435,6 +450,11 @@ img#team_Cdp {
     border-radius: 4px;
     font-style: italic;
     box-shadow: 0px 0px 6px #808080;
+    font-weight: bold;
+    border-radius: 270px;
+    padding: 0.2em 1.5em;
+    background: rgb(215, 143, 1);
+    color: white;
 }
 
 
@@ -473,6 +493,246 @@ img#bde_shop {
     width: 40%;
     margin: -6em 30% -3em;
 }
+
+img#motParent_Avion {
+    width: 70%;
+    margin: -3em 0 0 0;
+    cursor: pointer;
+}
+
+img#INSA_McDo {
+    width: 70%;
+    margin: 1em 15%;
+    border: 1px solid gray;
+}
+
+i#fermerPUB {
+    float: right;
+    margin: 0px 15%;
+    position: relative;
+    top: 0.5em;
+    font-size: 2.5em;
+    cursor: pointer;
+    right: -1em;
+    color: #004311;
+}
+
+
+
+img#motParent_Debut {
+    float: right;
+    width: 37%;
+    margin: -3em 0em 0em 0em;
+    z-index: 100;
+}
+
+#motParentsApercus{
+    width: 60%;
+}
+
+img#motParent_Idefix {
+    width: 25%;
+    margin: -2em 0 -3em 0;
+    float: right;
+}
+
+img#motParent_Velo {
+    width: 22%;
+    float: left;
+    margin: -2em 0px 0 -7em;
+}
+
+img#turne_Asterix {
+    width: 30%;
+    float: right;
+    margin: -1em -4em -2em 2em;
+}
+
+img#turne_Idefix {
+    width: 30%;
+    float: right;
+    margin: 3em -3em 0 0;
+}
+
+img#turne_plan {
+    width: 70%;
+    margin: -2em 15% -4em;
+}
+
+img#kfet_bat {
+    width: 39%;
+    float: right;
+    margin: -5.6em -5em -1em 1em;
+}
+
+img#kfet_branleur {
+    width: 25%;
+    float: right;
+    margin: -1em -2em 0 2em;
+}
+
+img#restau_Pannau {
+    width: 8%;
+    float: right;
+    margin: -4em -1em 1em 1em;
+}
+
+img#restau_Olivier {
+    width: 20%;
+    float: right;
+}
+
+img#restau_RI {
+    width: 20%;
+    float: right;
+    margin: 0 -4em 0em 1em;
+}
+
+img#scol_AsterixSeul {
+    width: 20%;
+    float: right;
+    margin: 0em -5em 0em 0em;
+}
+
+img#scol_Idefix {
+    width: 25%;
+    float: right;
+    margin: 1.8em -6em 0em 1em;
+}
+
+img#filiere_SCAN {
+    width: 15%;
+    float: right;
+    margin: -1em -5em 0em 2em;
+}
+
+img#filiere_Asinsa {
+    width: 21%;
+    float: right;
+    margin: -2em -6em 0em 2em;
+}
+
+img#filiere_Branleur {
+    width: 16%;
+    float: left;
+    margin: 0em 1em -2em -4em;
+}
+
+
+a#linkInsa {
+    cursor: pointer;
+}
+
+
+
+
+
+
+@media screen and (max-width: 640px) {
+
+    #banner h1 {
+        font-size: 1.3em;
+    }
+    #logoDroiteHome img {
+        width: 150%;
+        margin: 2.5em 0em 0 0em;
+    }
+
+    .navigation {
+        display: none;
+    }
+
+    .presParent h1 {
+        font-size: 1.6em;
+    }
+
+    .mid-6 {
+        width: 100%;   
+    }
+
+    p#motParentsApercus {
+        width: 100%;
+        font-size: 1.2em !important;
+    }
+
+    img#motParent_Avion {
+        width: 80%;
+        margin: -2em 0 0 0;
+    }
+
+    .row-6 {
+        display: none;
+    }
+    
+    .row-2 {
+        width: 100%;
+    }
+
+    .element {
+        cursor: pointer;
+        line-height: 1.3em;
+        margin: 0.3em 0;
+        width: 50%;
+        float: left;
+    }
+    .decouvrir{
+        /*display: none;*/
+    }
+
+    .btnBox {
+        width: 100%;
+        float: left;
+    }
+    .element {
+        line-height: 1.1em;
+        margin: 0.3em 0;
+        width: 49%;
+        float: left;
+    }
+
+    div#nextAventure {
+        font-size: 1.7em;
+        line-height: 1.5em;
+    }
+    div#previousAventure {
+        font-size: 1.7em;
+        line-height: 1.5em;
+    }
+
+    .rowButton {
+        margin-left: 14%;
+    }
+    .debut {
+        display: none;
+    }
+
+    .btnTodo {
+        margin: 2em 10px 1em;
+    }
+
+    #detailsInfo img{
+        display: none;
+    }
+
+    #detailsInfo .titre {
+        font-size: 1.7em;
+    }
+    div#detailsInfo {
+        padding: 2em 7%;
+    }
+
+    .btnTodo ul li a{
+        width: 75%;
+    }
+    .btnTodo ul{
+        margin:1em 0 0;
+    }
+
+
+
+}
+
+
 
 
 

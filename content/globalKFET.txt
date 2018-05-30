@@ -1,4 +1,12 @@
+
+
+<img id="kfet_bat" src="content/img/kfet_bat.svg"></img>
+
 Il est maintenant temps de te présenter ton village, cher Gaulois. Le village. Celui-là même qui survit encore et toujours à l'envahisseur. Entouré par les camps ennemis de Polytechum, de l'IUTum, et de l'Universitum, c'est ici que tu vas vivre les 5 meilleures années de ta vie. Mais quel est donc son secret ? <br><br>
+
+
+
+
 
 Appelé communément "La Doua", tu le trouveras peut-être un peu grand au début, mais on s'y fait vite. En fait, il est si exceptionnel que tu n'auras même plus la foi de sortir dans Lyon. Parce que oui Doua >> Lyon (ça veut dire "très supérieur" si t'as oublié les maths pendant les vacances). Bref. <br><br>
 
@@ -15,6 +23,8 @@ Bien sûr, comme tout village gaulois qui se respecte, tu auras de quoi faire du
 Place maintenant à la hutte la plus importante du village, une hutte à 2 étages. Ce sera ton temple, ton château que dis-je, ce sera ton paradis ! Je parle bien-sûr de la K-Fêt.  <br><br>
 
 La K-Fêt c'est la brasserie de l'INSA. Tous les soirs de la semaine, elle t'accueillera. A fêter tes réussites et à oublier tes chagrins elle t'aidera. De jolies rencontres tu y feras. De la super musique tu y écouteras. De la bonne bière (#triple K) tu y savoureras.  <br><br>
+
+<img id="kfet_branleur" src="content/img/kfet_branleur.svg"></img>
 
 Tout est géré par des étudiants passionnés, qui bossent du lundi au vendredi entre midi et deux, et le soir de 18h à 1h. Il y a régulièrement des soirées à thème, particulièrement le jeudi soir. Souvent, la K-Fêt se transforme en pure salle de concert (le Stade de Gaule c'est surcôté). En plus, chaque dernier jeudi avant les vacances, la K-Fêt reste ouverte jusqu'à 3h pour ce qu'on appelle les "Boom K-Fêt", des soirées encore plus énormes que d'habitude. <br><br>
 

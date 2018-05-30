@@ -43,14 +43,6 @@ $(document).ready( function() {
 	});
 
 
-	$("#linkInsa").click( function(){
-		// console.log("ADD");
-		window.open("https://www.insashop.fr/");
-		
-	});
-
-
-
 	
 
 
@@ -77,7 +69,11 @@ $(document).ready( function() {
 			//$("#item"+idActif).addClass("onWait");
 			//$("#item"+idSurvole).addClass("onSurvole");
 
+			//console.log($("#item"+idSurvole+"").html());
+			
 			$("#description").html( $("#item"+idSurvole+"").html() );
+			
+
 		}
 		else{
 
@@ -95,7 +91,9 @@ $(document).ready( function() {
 
 		//$("#itemTeam").css("font-weight","bold");
 		//$("#carte").css("transition","1s");
-		$("#carte").attr("src","content/carte/carte_"+idSurvole+".png");
+		if(idSurvole != 'Capelle'){
+			$("#carte").attr("src","content/carte/carte_"+idSurvole+".png");
+		}
 		
 	}, function(){
 
@@ -118,7 +116,11 @@ $(document).ready( function() {
 		$("#description").css("display","none");
 
 		//$("#itemTeam").css("font-weight","normal");
-		$("#carte").attr("src","content/carte/carte_"+idActif+".png");
+
+		if(idSurvole != 'Capelle'){
+			$("#carte").attr("src","content/carte/carte_"+idActif+".png");
+		}
+		
 	});
 
 
@@ -224,10 +226,32 @@ function loadImgTxt(){
 		
 		$("#detailsInfo .titre").html("Ta scolarité");
 	}
-
 	else if(id=="BDE"){
 		
 		$("#detailsInfo .titre").html("Le Bureau Des Elèves - BDE");
+	}
+	else if(id=="Inte"){
+		
+		$("#detailsInfo .titre").html("Organisation de l'inté");
+	}
+	else if(id=="Turne"){
+		
+		$("#detailsInfo .titre").html("Ta chaumière de l'année prochaine");
+	}
+	else if(id=="Restaurant"){
+		
+		$("#detailsInfo .titre").html("La Restauration à l'Insa");
+	}
+	else if(id=="Filiere"){
+		
+		$("#detailsInfo .titre").html("Les filières à l'INSA");
+	}
+	else if(id=="Lexique"){
+		
+		$("#detailsInfo .titre").html("Le lexique pour mieux comprendre ce site");
+	}
+	else{
+		$("#detailsInfo .titre").html("[A DEFINIR]");
 	}
 
 
@@ -245,12 +269,27 @@ function loadImgTxt(){
 
 		$.get('content/summary'+id+'.txt', function(data) {
 			// console.log(data);
-			$("#summaryInfo").html(data);	
+			$("#summaryInfo").html(data);
+
+
+
 		});
 		$.get('content/global'+id+'.txt', function(data) {
 			// console.log(data);
 			$("#detailsInfo p").html(data);	
+
+			if(id == "Lexique"){
+				console.log("TEST");
+				$("#accordion").accordion({
+			      heightStyle: "content",
+			      collapsible: true
+			    });
+			}
+
+			loadBtnClick();
 		});
+
+
 	}
 
 }
@@ -272,6 +311,13 @@ function loadBtnClick(){
 		$('html, body').animate({
 	        scrollTop: $("#detailsInfo").offset().top-50
 	    }, 2000);
+	});
+
+
+	$("#linkInsa").click( function(){
+		// console.log("ADD");
+		window.open("https://www.insashop.fr/");
+		
 	});
 
 }
