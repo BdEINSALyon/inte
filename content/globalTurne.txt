@@ -61,7 +61,7 @@ Et pour encore plus pimper ta turne :
 <li>Un plaid pour protéger ton lit des autres Astérix et autres Idéfix pleins de boue </li>
 </ul>
 
-
+<a href="360.html" class="button alt">Vues à 360°</a>
 
 <img id="turne_plan" src="content/img/turne_plan.svg"></img>
 

@@ -22,6 +22,11 @@
 				width: 800px;
 				margin: 0 auto;
 			}
+			#turnesphère {
+				height: 600px;
+				width: 800px;
+				margin-bottom: 200px;
+			}
 		</style>
 	</head>
 	<body>
@@ -53,13 +58,17 @@
 						<h1>Découverte des chaumières</h1>
 					</header>
 					<p>Escalier des résidences</p>
+					<p>Une turne. La photo est un peu bizarre, c'est juste que c'est assez dur de prendre des
+						photo-sphère en intérieur</p>
 					<div class="centerBloc">
-						<div id="photosphere" style="height: 100%;"></div>
+                        <div id="photosphere"></div>
+						<br>
 					</div>
 				</div>
 				<div class="inner">
-					<p>lol</p>
-					dolor sit amer
+					<div class="centerBloc">
+                        <div id="turnesphère"></div>
+					</div>
 				</div>
 			</section>
 
@@ -79,18 +88,30 @@
 		<script src="https://cdn.rawgit.com/mistic100/Photo-Sphere-Viewer/3.1.0/dist/photo-sphere-viewer.min.js"></script>
 
 		<script>
-			var laPhotosphere = new PhotoSphereViewer({
-            panorama: './images/photospheres/escalier.jpg',
-            container: 'photosphere',
-            loading_img: 'https://raw.githubusercontent.com/mistic100/Photo-Sphere-Viewer/3.1.0/example/photosphere-logo.gif',
-            navbar: 'autorotate zoom download fullscreen',
-            caption: 'Escalier du bâtiment des 1A',
-            default_fov: 65,
-            mousewheel: false,
-            size: {
-                height: 600
-            }
-        });
+			var turnePhotosphere = new PhotoSphereViewer({
+                panorama: './images/photospheres/turne1.jpg',
+                container: 'photosphere',
+                loading_img: 'https://raw.githubusercontent.com/mistic100/Photo-Sphere-Viewer/3.1.0/example/photosphere-logo.gif',
+                navbar: 'autorotate zoom download fullscreen',
+                caption: 'Turne de 1e année',
+                default_fov: 65,
+                mousewheel: false,
+                size: {
+                    height: 600
+                }
+            });
+            var escalierPhotosphere = new PhotoSphereViewer({
+                panorama: './images/photospheres/escalier.jpg',
+                container: 'photosphere',
+                loading_img: 'https://raw.githubusercontent.com/mistic100/Photo-Sphere-Viewer/3.1.0/example/photosphere-logo.gif',
+                navbar: 'autorotate zoom download fullscreen',
+                caption: 'Escalier du bâtiment des 1A',
+                default_fov: 65,
+                mousewheel: false,
+                size: {
+                    height: 600
+                }
+            });
 		</script>
 		<!--<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
 				integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
