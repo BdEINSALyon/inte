@@ -1,4 +1,4 @@
-A présent il est temps pour toi de découvrir ta turne ! Par toutatis mais qu'est-ce qu'une turne ? La turne c'est ta hutte, ta tente romaine qui va te protéger pour que le ciel ne te tombe pas sur la tête et dans laquelle tu vas habiter avec un autre Astérix pour le bâtiment B ou avec une autre Falbala au bâtiment A. Vous pourrez vous mettre d'accord pour un petit nom cool tel que la Saturne, la Nepturne ou la Druideturne, faites appel à votre imagination. <br>
+A présent il est temps pour toi de découvrir ta turne ! Par toutatis mais qu'est-ce qu'une turne ? La turne c'est ta hutte, ta tente romaine qui va te protéger pour que le ciel ne te tombe pas sur la tête et dans laquelle tu vas habiter avec un autre Astérix pour le bâtiment B ou avec une autre Falbala au bâtiment A. Vous pourrez vous mettre d'accord pour un petit nom cool tel que la Saturne, la Nepturne ou la Druideturne, faites appel à votre imagination. <br><br>
 
  
 
@@ -9,6 +9,8 @@ De tes grandes fenêtres tu pourras admirer les bâtiments du PC, le bâtiment d
 
 
 Pour ton confort n'oublie pas les essentiels : 
+
+<img id="turne_Asterix" src="content/img/turne_Asterix.svg"></img>
 
 <ul>
 <li>Un câble ethernet (le plus long possible)</li> 
@@ -35,6 +37,9 @@ Pour ton confort n'oublie pas les essentiels :
 
 Et pour encore plus pimper ta turne : 
 
+
+<img id="turne_Idefix" src="content/img/turne_Idefix.svg"></img>
+
 <ul>
 
 <li>Posters (un poster d'un poster c'est mieux #basketball), des photos qui te rappellent ta môman (ou tout autre membre de ton village natal), tableau de ton artiste peintre préferé ou périodique des éléments #Mendeleïevtoujourslà (pense à ramener la pâte à fixe qui va avec) </li>
@@ -55,4 +60,11 @@ Et pour encore plus pimper ta turne :
 
 <li>Un plaid pour protéger ton lit des autres Astérix et autres Idéfix pleins de boue </li>
 </ul>
+
+<a href="360.html" class="button alt">Vues à 360°</a>
+
+<img id="turne_plan" src="content/img/turne_plan.svg"></img>
+
+
+
 

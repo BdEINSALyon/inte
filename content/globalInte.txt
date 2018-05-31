@@ -1,21 +1,29 @@
-PLANNING <br>
+<strong>PLANNING</strong> <br>
 
-<ul>
-<li> Chaîne d’intégration (Des jeux tu feras) </li>
+<div class="blocEtapeInte">
+	<ul>
+	<li> Chaîne d’intégration (Des jeux tu feras) </li>
 
-<li> Soirée d’intégration (Enjaillé tu seras) </li>
+	<li> Soirée d’intégration (Enjaillé tu seras) </li>
 
-<li> Plouc des Familles (Ta famille tu défendras) </li>
+	<li> Plouc des Familles (Ta famille tu défendras) </li>
 
-<li> Soirée de parrainage (Ton parrain/ta marraine tu admireras) </li>
+	<li> Soirée de parrainage (Ton parrain/ta marraine tu admireras) </li>
 
-<li> Rallye (Lyon tu parcourras) </li>
+	<li> Rallye (Lyon tu parcourras) </li>
 
-<li> WEI (Connaissances tu feras…) </li>
-</ul>
- 
+	<li> WEI (Connaissances tu feras…) </li>
+	</ul>
+</div>
 
-LA SOIREE D’INTEGRATION  <br>
+
+<div id="inte_Debut">
+<img id="" src="content/img/inte_Debut.svg"></img>
+</div>
+
+<div class="clearboth"></div>
+
+<strong>LA SOIREE D’INTEGRATION</strong>  <br>
 
 
  
@@ -24,15 +32,15 @@ Eh oui… après ton arrivée et la découverte de ta nouvelle famille, tes Cdp�
 
  <br>
 
-PLOUC  <br>
+<strong>PLOUC</strong>   <br>
 
- 
+<img id="inte_Plouc" src="content/img/inte_Plouc.svg"></img>
 
 L’inté n’est pas finie (elle commence à peine), le dimanche c’est aux couleurs de ta famille que tu chanteras! C’est lors de cette Partie Loufoque d’Origami Unilatéralement Caliente que, toi, petit Astérix et ta famille d’amour, vous allez devoir vous unir et vous souder pour surmonter des épreuves plus dures que les menhirs d’Obélix … Entre lancers de romains, sauvetages de falbalas en détresse et courses sur sangliers il te faudra te faire voir et entendre sur tout le campus ! Pour cela n’oublie pas une (ou plusieurs) ENORMES pancartes, un cri de guerre lynchant ET bien sûr ton resplendissant casque ailé sur ta belle chevelure dorée … Rends ta famille fière et mène-la (peut-être #zéro magouille) à la victoire !  <br>
 
  <br>
 
-SOIREE DE PARRAINAGE  <br>
+<strong>SOIREE DE PARRAINAGE </strong>  <br>
 
  
 
@@ -44,15 +52,21 @@ Après ces premiers jours de cours exaltants mais pour le moins éprouvants, tu 
 <br>
  
 
-LE RALLYE  <br>
+<strong>LE RALLYE </strong>  <br>
 
- 
+<img id="inte_Rallye" src="content/img/inte_Rallye.svg"></img>
 
 Pendant le Rallye, il te faudra sortir de ton petit village gaulois préféré, traverser la foret et affronter l’inconnue… Revêtis ton pantalon rouge, ton beau casque, ta moustache et n’oublie pas ton épée car il est temps pour toi de montrer aux lyonnais qui sont les meilleurs gaulois ! En effet, le jeudi après-midi on n’a pas cours mais pas question de commencer à bosser ton RAMES (t’auras l’année pour ça #QCM), c’est le moment pour toi d’aller visiter ta nouvelle ville ! Avec ta famille vous allez tous ensemble parcourir Lyon et réaliser les épreuves et défis que les Cdp’s t’ont organisés avec soin ! Le tout est de s’éclater et de mettre l’ambiance sur toutes les places de Lyon ! Et crois-en l’expérience tu ne connaîtras jamais de meilleur voyage en métro (#Paquito)... A la fin de la journée il est temps d’atteindre l’avant-dernière péripétie de l’inté qui se déroule dans la demeure du chef de Villeurbanne: «la mairie ». Le maire vous accueillera alors avec toute sa jovialité et vous fera son fameux discours de bienvenue, ne t’inquiètes pas ça sera assez concis car il a tendance à bien parler… Le tout se terminera autour d’un grand banquet offert par la mairie, histoire de manger un bon sanglier rôtit bien mérité après toutes les péripéties de la journée ! <br>
 
+
+
+
+
+<div class="clearboth"></div>
+
  <br>
 
-LE WEI  <br>
+<strong>LE WEI </strong>  <br>
 
  
 

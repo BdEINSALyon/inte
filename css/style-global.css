@@ -10,6 +10,10 @@
     clear:both;
 }
 
+.hidden{
+    display: none;
+}
+
 .navigation span a{
     color:rgba(255, 255, 255, 0.75)
 }
@@ -21,7 +25,7 @@
 
 .navigation {
     float: left;
-    margin-left: 20%;
+    margin-left: 25%;
 }
 
 .navigation span{
@@ -49,6 +53,7 @@
 
 #banner {
     padding: 2em;
+    padding-top: 0em;
     /*background-image: url(../images/asterixObelix.jpeg);*/
     /*background-size: 26%;*/
     /*background-repeat: repeat-x;*/
@@ -84,17 +89,49 @@ p {
 
 
 .contentCarte{
-    margin-bottom: 2em;
+    margin-bottom: 0em;
     margin-top: 1.5em;
 	min-height: 500px;
 }
 
 
 
-/*#carte{
 
-	
-}*/
+.blocImg {
+    width: 15%;
+    float: left;
+    max-height: 320px;
+}
+#innerHead {
+    width: 70%;
+    float: left;
+}
+
+#logoDroiteHome img {
+    width: 130%;
+    margin: 2em 0em 0 -2em;
+}
+#logoGaucheHome img{
+    width: 100%;
+    top: 3em;
+    right: 0em;
+    position: relative;
+}
+
+#banner h1 {
+    font-size: 2.4em;
+    line-height: 1.45;
+    margin: 1.3em 0 0.75em 0;
+}
+
+#head{
+        max-height: 400px;
+}
+
+.shadow_area::hover{
+    background: red;
+    z-index: 1000;
+}
 
 #residenceAB {
     width: 24%;
@@ -118,10 +155,11 @@ p {
     background-size: 100%;
     background-repeat-x: no-repeat;
     background-repeat-y: no-repeat;
-    height: 700px;
-    width: 95%;
+    /*height: 700px;*/
+    /*width: 95%;*/
     background-color: #ffffff;
     transition: 0.5s;
+    margin-top:-3em;
 }
 
 .rowContent{
@@ -146,6 +184,8 @@ p {
 }
 .element {
     cursor: pointer;
+    line-height: 1.3em;
+    margin: 0.3em 0;
 }
 .element:hover {
     font-weight: bold;
@@ -182,9 +222,7 @@ p.summary {
     background-size: 100%; 
 }
 
-div#img2 {
-    background-size: 100%;
-}   
+
 
 .rowButton {
     width: 60%;
@@ -227,8 +265,472 @@ div#nextAventure:hover {
     /*color:white;*/
 }
 
+#detailsInfo p{
+    text-align: justify;
+}
+
+button.decouvrir {
+    background: white;
+    color: #2aabe2 !important;
+    border: 2px solid #2aabe2;
+    line-height: 3px;
+    padding: 0em 0.8em;
+    margin-left: 1.5em;
+
+}
+button.decouvrir:hover{
+    background-color: rgba(144, 144, 144, 0.075);
+}
+
+.onSurvole{
+    color: #2aabe2;
+    font-weight: bold;
+}
+
+.element.onWait{
+    color: #ea6f14;
+    font-weight: bold;
+}
 
 
+    
+
+.btnTodo {
+    margin-top: 6em;
+    margin-right: 0.5em; 
+    font-size: 0.9em;
+    border: 1px solid gray;
+    padding: 1em 1.5em;
+    text-align: center;
+    line-height: 1.2em;
+}
+
+.btnTodo ul{
+    margin:0;
+}
+
+.btnTodo ul li a{
+    font-size:0.9em;
+    margin: 1em 0;
+    padding-left:1.4em;
+    padding-right:1.4em; 
+}
+
+
+#detailsInfo strong{
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+
+#mat_Chimie{
+    width: 20%;
+    float: right;
+}
+
+
+#mat_General {
+    width: 35%;
+    /* float: right; */
+    margin: -3em 32% -7em;
+}
+
+.blocEtapeInte{
+    float:left;
+    width:50%;
+}
+
+#inte_Debut {
+    float: right;
+    width: 47%;
+    margin: -8em 0 -10em;
+}
+
+.blocRallye{
+    float:left;
+    width:75%;
+}
+
+img#inte_Rallye {
+    width: 16%;
+    float: right;
+    margin: 0em 0em -0.3em 2em;
+}
+
+img#inte_Plouc {
+    width: 18%;
+    float: right;
+    margin: -3em 0em -0.3em 2em;
+}
+
+img#team_Parrain {
+    float: right;
+    width: 42%;
+}
+
+
+#img1 {
+    background-size: 120%;
+    position: relative;
+    right: 2em;
+    top: 1em;
+}
+
+
+
+img#event_Bal {
+    width: 30%;
+    float: right;
+    margin-right: -4em;
+}
+
+img#event_Biz {
+    float: right;
+    width: 29%;
+    margin: -3em -3em;
+}
+
+img#event_Raid {
+    /* transform: rotate(90deg); */
+    float: left;
+    width: 12%;
+    margin: 0 -4em -2em 0;
+    position: relative;
+    left: -5em;
+    top: -1em;
+}
+
+div#img2 {
+    background-size: 91%;
+    position: relative;
+    left: 2em;
+}
+div#home_3 {
+    background-size: 90%;
+    margin: 0em 0 0em 0;
+    /* float: left; */
+}
+
+#accordion gras{
+    font-weight: bold;
+}
+
+.mid-6 {
+    width: 50%;
+    float: left;
+}
+
+img#team_Mif {
+    float: right;
+    width: 20%;
+    margin: -3em 0 0 1em;
+}
+
+img#team_Parrain {
+    float: left;
+    width: 17%;
+    margin: -1em 1em 0 -5em;
+}
+
+
+img#team_Cdp {
+    float: right;
+    width: 20%;
+    margin: 3em -4em 0em 1em;
+}
+
+
+#description {
+    position: absolute;
+    display: none;
+    border: 1px solid #808080;
+    padding: 0.2em 0.9em;
+    z-index: 500;
+    background: white;
+    border-radius: 4px;
+    font-style: italic;
+    box-shadow: 0px 0px 6px #808080;
+    font-weight: bold;
+    border-radius: 270px;
+    padding: 0.2em 1.5em;
+    background: rgb(215, 143, 1);
+    color: white;
+}
+
+
+img#kfet_Plan {
+    width: 70%;
+    margin: 0 15%;
+}
+
+
+img#degui_Bas {
+    float: right;
+    width: 27%;
+    margin: -2em -3em 1em 2em;
+}
+
+img#degui_Haut {
+    width: 50%;
+    margin: 0 30% 1em;
+}
+
+img#bde_idefix {
+    float: left;
+    width: 14%;
+        margin: -1em 1em 0em 0;
+}
+
+
+img#bde_COOP {
+    width: 30%;
+    float: right;
+    margin: -1.5em -4em 1em 1.5em;
+}
+
+img#bde_shop {
+    /* float: right; */
+    width: 40%;
+    margin: -6em 30% -3em;
+}
+
+img#motParent_Avion {
+    width: 70%;
+    margin: -3em 0 0 0;
+    cursor: pointer;
+}
+
+img#INSA_McDo {
+    width: 70%;
+    margin: 1em 15%;
+    border: 1px solid gray;
+}
+
+i#fermerPUB {
+    float: right;
+    margin: 0px 15%;
+    position: relative;
+    top: 0.5em;
+    font-size: 2.5em;
+    cursor: pointer;
+    right: -1em;
+    color: #004311;
+}
+
+
+
+img#motParent_Debut {
+    float: right;
+    width: 37%;
+    margin: -3em 0em 0em 0em;
+    z-index: 100;
+}
+
+#motParentsApercus{
+    width: 60%;
+}
+
+img#motParent_Idefix {
+    width: 25%;
+    margin: -2em 0 -3em 0;
+    float: right;
+}
+
+img#motParent_Velo {
+    width: 22%;
+    float: left;
+    margin: -2em 0px 0 -7em;
+}
+
+img#turne_Asterix {
+    width: 30%;
+    float: right;
+    margin: -1em -4em -2em 2em;
+}
+
+img#turne_Idefix {
+    width: 30%;
+    float: right;
+    margin: 3em -3em 0 0;
+}
+
+img#turne_plan {
+    width: 70%;
+    margin: -2em 15% -4em;
+}
+
+img#kfet_bat {
+    width: 39%;
+    float: right;
+    margin: -5.6em -5em -1em 1em;
+}
+
+img#kfet_branleur {
+    width: 25%;
+    float: right;
+    margin: -1em -2em 0 2em;
+}
+
+img#restau_Pannau {
+    width: 8%;
+    float: right;
+    margin: -4em -1em 1em 1em;
+}
+
+img#restau_Olivier {
+    width: 20%;
+    float: right;
+}
+
+img#restau_RI {
+    width: 20%;
+    float: right;
+    margin: 0 -4em 0em 1em;
+}
+
+img#scol_AsterixSeul {
+    width: 20%;
+    float: right;
+    margin: 0em -5em 0em 0em;
+}
+
+img#scol_Idefix {
+    width: 25%;
+    float: right;
+    margin: 1.8em -6em 0em 1em;
+}
+
+img#filiere_SCAN {
+    width: 15%;
+    float: right;
+    margin: -1em -5em 0em 2em;
+}
+
+img#filiere_Asinsa {
+    width: 21%;
+    float: right;
+    margin: -2em -6em 0em 2em;
+}
+
+img#filiere_Branleur {
+    width: 16%;
+    float: left;
+    margin: 0em 1em -2em -4em;
+}
+
+
+a#linkInsa {
+    cursor: pointer;
+}
+
+
+
+
+
+
+@media screen and (max-width: 640px) {
+
+    #banner h1 {
+        font-size: 1.3em;
+    }
+    #logoDroiteHome img {
+        width: 150%;
+        margin: 2.5em 0em 0 0em;
+    }
+
+    .navigation {
+        display: none;
+    }
+
+    .presParent h1 {
+        font-size: 1.6em;
+    }
+
+    .mid-6 {
+        width: 100%;   
+    }
+
+    p#motParentsApercus {
+        width: 100%;
+        font-size: 1.2em !important;
+    }
+
+    img#motParent_Avion {
+        width: 80%;
+        margin: -2em 0 0 0;
+    }
+
+    .row-6 {
+        display: none;
+    }
+    
+    .row-2 {
+        width: 100%;
+    }
+
+    .element {
+        cursor: pointer;
+        line-height: 1.3em;
+        margin: 0.3em 0;
+        width: 50%;
+        float: left;
+    }
+    .decouvrir{
+        /*display: none;*/
+    }
+
+    .btnBox {
+        width: 100%;
+        float: left;
+    }
+    .element {
+        line-height: 1.1em;
+        margin: 0.3em 0;
+        width: 49%;
+        float: left;
+    }
+
+    div#nextAventure {
+        font-size: 1.7em;
+        line-height: 1.5em;
+    }
+    div#previousAventure {
+        font-size: 1.7em;
+        line-height: 1.5em;
+    }
+
+    .rowButton {
+        margin-left: 14%;
+    }
+    .debut {
+        display: none;
+    }
+
+    .btnTodo {
+        margin: 2em 10px 1em;
+    }
+
+    #detailsInfo img{
+        display: none;
+    }
+
+    #detailsInfo .titre {
+        font-size: 1.7em;
+    }
+    div#detailsInfo {
+        padding: 2em 7%;
+    }
+
+    .btnTodo ul li a{
+        width: 75%;
+    }
+    .btnTodo ul{
+        margin:1em 0 0;
+    }
+
+
+
+}
 
 
 

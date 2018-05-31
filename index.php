@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Astérix By CdpRecords</title>
+		<title>Intégration INSA Lyon</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -18,7 +18,7 @@
 
 		<!-- Header -->
 			<header id="header">
-				<a href="/" class="logo"><strong>Astérix</strong> by CDP2018</a>
+				<a href="/" class="logo"><strong>Intégration 2018</strong> INSA Lyon</a>
 				<div class="navigation">
 					<span class="actual"><a href="index.php">Introduction</a></span>
 					<i class="fas fa-angle-right"></i>
@@ -43,20 +43,30 @@
 			</nav> -->
 
 		<!-- Banner -->
-			<section id="banner">
-				<div class="inner">
+			<section id="banner" >
+				<div class="blocImg" id="logoGaucheHome">
+					<img src="content/img/presentation_gauche_homePage.png"></img>
+				</div>
+
+				<div id="innerHead" class="inner">
 					<h1><span class="asterixPres" >Avé petit Astérix</span><br />
 					Viens découvrir ce que cette année te réserve </h1>
 					<ul class="actions">
 						<li><a href="#one" class="button alt scrolly big">Découvrir</a></li>
 					</ul>
 				</div>
+
+				<div class="blocImg" id="logoDroiteHome">
+					<img src="content/img/presentation_droite_homePage.svg"></img>
+				</div>
+
+				<div class="clearboth"></div>
 			</section>
 
 		<!-- One -->
 			<article id="one" class="post style2">
 				<div id="img1" class="image">
-					<img src="images/Image_Poly_Info.png"  alt="" data-position="70% center" />
+					<img src="content/img/home_1.svg"  alt="" data-position="70% center" />
 				</div>
 				<div class="content">
 					<div class="inner">
@@ -85,7 +95,7 @@ Un paisible soleil se lève avec la Gaule. Le campus semble désert et pourtant,
 		<!-- Two -->
 			<article id="four" class="post invert style2 alt">
 				<div class="image" id="img2">
-					<img src="images/persoObelix.png"  alt="" data-position="10% center" />
+					<img src="content/img/home_2.svg"  alt="" data-position="10% center" />
 				</div>
 				<div class="content">
 					<div class="inner">
@@ -115,20 +125,20 @@ Tu y trouveras toutes sortes d’informations sur ton rite de passage d’irréd
 
 		<!-- Three -->
 			<article id="three" class="post style2">
-				<div class="image">
-					<img src="images/pic12.jpg" alt="" data-position="80% center" />
+				<div id="home_3" class="image">
+					<img  src="content/img/home_3.svg" alt="" data-position="80% center" />
 				</div>
 				<div class="content">
 					<div class="inner">
 						<header>
-							<h2><a href="generic.html">A toi de jouer</a></h2>
+							<h2><a href="">A toi de jouer !</a></h2>
 							<p class="info">Ta première mission en tant que jeune Astérix</p>
 						</header>
 						<p>Alors lis bien tout ce qu’on t’a écrit et si tu veux déjà prendre contact avec les autres petits Astérix, ou poser des questions diverses et variées (fais toi plaisir j’hésiterai pas à mettre en lumière les plus loufoques (à savoir comment un loup et un phoque on fait pour… bref je m’égare encore)) rends toi sur la page Facebook INSA Lyon - Admis en 1ere année 2018/2019 - 62ème promo ! <br>
 
 On a tellement hâte de te rencontrer et de t’accueillir parmi nous petit Astérix. Profite bien de tes vacances pour arriver en pleine forme en Septembre car l’inté sera unique, on a la potion magique ! » comme dirait l’un des bardes du village. <br>
 
-Moustache et champignons 
+Moustache et champignons <br>
 
 Tes Marios à l’autre bout du tuyau.</p>
 						<ul class="actions">
