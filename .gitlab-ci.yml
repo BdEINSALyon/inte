@@ -1,0 +1,23 @@
+image: docker:latest
+
+stages:
+  - build
+  - deploy
+
+build:
+  stage: build
+  before_script:
+    - docker login -u "$CI_REGISTRY_USER" -p "$CI_REGISTRY_PASSWORD" $CI_REGISTRY
+  script:
+    - docker build --pull -t "$CI_REGISTRY_IMAGE:latest" .
+    - docker push "$CI_REGISTRY_IMAGE:latest"
+  only:
+    - inte
+
+deploy:
+  stage: deploy
+  image: cdrx/rancher-gitlab-deploy
+  only:
+    - inte
+  script:
+    - upgrade --environment "Production" --new-image "$CI_REGISTRY_IMAGE:latest" --stack integration --service integration-integration
