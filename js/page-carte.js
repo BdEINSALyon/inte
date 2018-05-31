@@ -32,8 +32,13 @@ $(document).ready( function() {
 
 	$("#nextAventure").click( function(){
 		// console.log("ADD");
+		
+
 		var actualSeclected = $(".selected");
-		if(actualSeclected.next().hasClass("element")){
+
+		//console.log(actualSeclected.next().attr('id') );
+
+		if(actualSeclected.next().hasClass("element") && actualSeclected.next().attr('id') != "itemCapelle"){
 			actualSeclected.removeClass("selected");
 			actualSeclected.next().addClass("selected");
 			loadImgTxt();
@@ -41,9 +46,6 @@ $(document).ready( function() {
 
 		
 	});
-
-
-	
 
 
 	$(".areaZone").hover( function(event){
@@ -250,6 +252,22 @@ function loadImgTxt(){
 		
 		$("#detailsInfo .titre").html("Le lexique pour mieux comprendre ce site");
 	}
+	else if(id=="Associations"){
+		
+		$("#detailsInfo .titre").html("Les assos insaliennes");
+	}
+	else if(id=="Lyon"){
+		
+		$("#detailsInfo .titre").html("Lyon, la plus belle des villes");
+	}
+	else if(id=="Recette"){
+		
+		$("#detailsInfo .titre").html("Code d'honneur du bizuth");
+	}
+	else if(id=="Resp"){
+		
+		$("#detailsInfo .titre").html("Le mot de la resp");
+	}
 	else{
 		$("#detailsInfo .titre").html("[A DEFINIR]");
 	}
@@ -262,10 +280,12 @@ function loadImgTxt(){
 			// console.log(data);
 			$("#summaryInfo").html(data);	
 			$("#detailsInfo").css('background-color','#f5c644')
+			$("#detailsInfo .titre").addClass("hidden");
 		});	
 		// $("#imgWEI").css("background-image", "url(./content/carte_"+id+".png)");
 	}
 	else{
+		$("#detailsInfo .titre").removeClass("hidden");
 
 		$.get('content/summary'+id+'.txt', function(data) {
 			// console.log(data);
@@ -310,7 +330,7 @@ function loadBtnClick(){
 		
 		$('html, body').animate({
 	        scrollTop: $("#detailsInfo").offset().top-50
-	    }, 2000);
+	    }, 100);
 	});
 
 
