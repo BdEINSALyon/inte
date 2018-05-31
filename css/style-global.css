@@ -43,12 +43,40 @@
 	font-weight: bold;
 }
 
+img#lyon_Menhir {
+    margin: -1em 0 0;
+}
 
 #imgWEI {
     background-image: url(../content/carte_WEI.png);
     background-size: 100%;
-    height: 600px;
+    height: 660px;
     background-repeat-y: no-repeat;
+}
+
+a#participateWEI {
+    margin-right: 1em;
+    background: #f5c645;
+    /* border: 1px solid #f5c645 !important; */
+    color: white !important;
+    box-shadow: none;
+    font-size: 0.9em;
+    border-radius: 5px;
+}
+a#participateWEI:hover{
+     background: #bd9528;
+     transition: 1s;
+}
+
+.partListeWEI {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+span#joinFBFooter {
+    color: #cdcdcd;
+    position: relative;
+    bottom: 6px;
 }
 
 #banner {
@@ -491,7 +519,47 @@ img#bde_COOP {
 img#bde_shop {
     /* float: right; */
     width: 40%;
-    margin: -6em 30% -3em;
+    margin: -6em 30% -1em;
+}
+
+img#INSA_FLAMS {
+    width: 30%;
+    margin: -1em 35% 0em;
+}
+
+img#lyon_fourviere {
+    width: 45%;
+    margin: -1em 28% 0;
+}
+
+.fondBizuth {
+    text-align: center;
+    font-size: 1.2em;
+    /* line-height: 2.1em; */
+    width: 80%;
+    margin: 0px 10%;
+    text-align: center;
+    border-radius: 50px;
+    border: 1px solid gray;
+    padding: 1em;
+}
+.fondBizuth strong {
+    font-size: 1em !important;
+}
+
+img#motParent_Velo {
+    width: 19%;
+    float: left;
+    margin: -2em 1em 0 -8em;
+}
+
+img#resp_Mario {
+    width: 30%;
+    margin: -1em 35% 0;
+}
+
+.todo#main {
+    padding: 0em 0em 2em 0;
 }
 
 img#motParent_Avion {
@@ -506,6 +574,12 @@ img#INSA_McDo {
     border: 1px solid gray;
 }
 
+img#INSA_Bde {
+    width: 45%;
+    border: 1px solid gray;
+    margin: 1em 28.5%;
+}
+
 i#fermerPUB {
     float: right;
     margin: 0px 15%;
@@ -516,8 +590,20 @@ i#fermerPUB {
     right: -1em;
     color: #004311;
 }
+i#fermerPUBTodo {
+    float: right;
+    margin: 0px 26%;
+    position: relative;
+    top: 0.5em;
+    font-size: 2.5em;
+    cursor: pointer;
+    right: -1em;
+    color: #004311;
+}
 
-
+.pub {
+    margin-top: -4em;
+}
 
 img#motParent_Debut {
     float: right;
@@ -564,6 +650,8 @@ img#kfet_bat {
     float: right;
     margin: -5.6em -5em -1em 1em;
 }
+
+
 
 img#kfet_branleur {
     width: 25%;
@@ -625,8 +713,144 @@ a#linkInsa {
 
 
 
+.todoBloc .adresse {
+    text-align: center;
+    margin: 0.9em 0 0.3em;
+}
+
+.partListe {
+    font-size: 1.4em;
+}
+
+#joinFb {
+    font-size: 1.4em;
+    margin: 0.2em 0.4em 0em 0em;
+    position: relative;
+    top: 0.1em;
+}
 
 
+
+#downloadIcon {
+    font-size: 1.4em;
+    margin: 0.2em 0.1em 0em 0em;
+    position: relative;
+    top: 0.1em;
+    right: 3px;
+}
+
+#sunIcon {
+    font-size: 1.5em;
+    margin: 0.2em 0.4em 0em 0em;
+    position: relative;
+    top: 0.1em;
+}
+
+#printerIcon{
+    font-size: 1.4em;
+    margin: 0.2em 0.4em 0em 0em;
+    position: relative;
+    top: 0.1em;
+}
+
+.blocList {
+    width: 90%;
+    margin: 0 5% 1em;
+}
+
+.todoBloc .titre {
+    font-size: 1.9em;
+    margin-bottom: 0.5em;
+}
+#sunIcon {
+    font-size: 1.5em;
+    margin: 0.2em 0.4em 0em 0em;
+    position: relative;
+    top: 0.1em;
+}
+
+#adminIcon {
+    font-size: 1.5em;
+    margin: 0.2em 0.4em 0em 0em;
+    position: relative;
+    top: 0.1em;
+}
+
+#heartIcon {
+    font-size: 1.4em;
+    margin: 0.2em 0.25em 0em 0em;
+    position: relative;
+    top: 0.1em;
+}
+
+#planeIcon {
+    font-size: 1.4em;
+    margin: 0.2em 0.25em 0em 0em;
+    position: relative;
+    top: 0.1em;
+}
+
+#shopIcon {
+    font-size: 1.4em;
+    margin: 0.2em 0.25em 0em 0em;
+    position: relative;
+    top: 0.03em;
+}
+
+button#downloadFile {
+    font-size: 0.6em;
+    margin: 0.1em 0 0 1em;
+}
+button#downloadFile:hover{
+    color:white !important;
+    background: #2aabe2;
+}
+
+button#goWEI {
+    font-size: 0.6em;
+    margin: 0.1em 0 0 1em;
+}
+button#goWEI:hover{
+    color:white !important;
+    background: #2aabe2;
+}
+
+
+.ssElemen::before {
+    content: '\f08d';
+    font-family: FontAwesome;
+    margin-right: 7px;
+}
+
+
+.ssElemen {
+    margin-left: 10%;
+    font-size: 1.1em;
+}
+
+.titreTodo{
+    text-align: center; 
+}
+
+
+img#asso_Rond {
+    width: 35%;
+    float: right;
+    margin: -3em -6em -2em -1em;
+}
+
+
+img#asso_Panneau {
+    width: 20%;
+    float: left;
+    margin: 0 0 0 -5em;
+}
+
+
+img#INSA_COOP {
+    width: 40%;
+    margin: 0 3em;
+}
 
 @media screen and (max-width: 640px) {
 

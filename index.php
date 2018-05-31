@@ -224,9 +224,9 @@ Tes Marios à l’autre bout du tuyau.</p>
 		<!-- Footer -->
 			<footer id="footer">
 				<ul class="icons">
-					<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-					<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-					<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+					
+					<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li> 
+					<span id="joinFBFooter">Rejoins le groupe Facebook "INSA Lyon – Admis en 1ère année 2018/2019 - 62ème promo"</span>	
 				</ul>
 				<div class="copyright">
 					<!--&copy; Untitled. Design: <a href="https://templated.co">TEMPLATED</a>. Images: <a href="https://unsplash.com">Unsplash</a>.-->

@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Astérix By CdpRecords</title>
+		<title>Intégration INSA Lyon</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -43,7 +43,7 @@
 
 		<!-- Header -->
 			<header id="header">
-				<a href="/" class="logo"><strong>Astérix</strong> by CDP2018</a>
+				<a href="/" class="logo"><strong>Intégration 2018</strong> INSA Lyon</a>	
 				<div class="navigation">
 					<span class=""><a href="index.php">Introduction</a></span>
 					<i class="fas fa-angle-right"></i>
@@ -54,7 +54,8 @@
 					<span class=""><a href="todo.php">To-Do-List</a></span>
 				</div>
 				<nav>
-					<!--<a href="#menu">Menu</a>-->
+					
+
 				</nav>
 			</header>
 
@@ -81,7 +82,7 @@
 							<div class="row-2">
 								<div class="liste">
 									<div class="titre">Liste des aventures</div>
-									<div id="itemTeam" class="element ">
+									<div id="itemTeam" class="element selected ">
 										Ta tribu
 										<div class="btnDecouvert">
 											<button class="decouvrir">Découvrir</button>
@@ -95,14 +96,14 @@
 									<div id="itemRestaurant" class="element ">Les restaurants</div>
 									<div id="itemBDE" class="element ">Le BDE</div>
 									<div id="itemEvent"  class="element ">Événements de l'année</div>
-									<div id="itemAssociations"  class="element">Associations</div>
+									<div id="itemAssociations"  class="element ">Associations</div>
 									<div id="itemScolarite"  class="element ">Scolarité</div>
 									<div id="itemMatiere"  class="element ">Matière</div>
 									<div id="itemFiliere"  class="element ">Filière</div>
-									<div id="itemLyon"  class="element">Découvrir Lyon</div>
-									<div id="itemRecette"  class="element">Recette du bizuth magique</div>
-									<div id="itemLexique"  class="element selected">Le Lexique</div>
-									<div id="itemResp"  class="element">Le mot de la Resp</div>
+									<div id="itemLyon"  class="element ">Découvrir Lyon</div>
+									<div id="itemRecette"  class="element ">Recette du bizuth magique</div>
+									<div id="itemLexique"  class="element ">Le Lexique</div>
+									<div id="itemResp"  class="element ">Le mot de la Resp</div>
 									<div id="itemCapelle"  class="element hidden">Amphi Capelle ... Ah non lol</div>
 
 									<div class="btnBox">
@@ -206,15 +207,16 @@
 						</ul>
 					</div>-->
 				</div>
+				<input type="hidden" id="hasSeenTODO" value=<?php echo $_COOKIE['hasSeenTODO'] ?>></div>
 			</section>
 
 		
 		<!-- Footer -->
 			<footer id="footer">
 				<ul class="icons">
-					<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-					<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-					<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+					
+					<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li> 
+					<span id="joinFBFooter">Rejoins le groupe Facebook "INSA Lyon – Admis en 1ère année 2018/2019 - 62ème promo"</span>	
 				</ul>
 				<div class="copyright">
 					<!--&copy; Untitled. Design: <a href="https://templated.co">TEMPLATED</a>. Images: <a href="https://unsplash.com">Unsplash</a>.-->
