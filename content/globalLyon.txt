@@ -18,6 +18,8 @@ Niveau shopping, t’as aucun souci à te faire, Lyon regorge de magasins en tou
 
 <strong>Un petit creux entre deux sangliers ? </strong><br>
 
+<img id="INSA_FLAMS" src="content/img/INSA_FLAMS.png"></img>
+
 Encore une fois, ici, il y a de tout… Si tu veux rester dans le basique, t’as tout ce que tu veux à Charpennes où tu trouveras plusieurs tacos, un mcdo, un subway et des sushis. A Part-Dieu, t’auras ce qu’il faut niveau Burger King et KFC, et à Hôtel de Ville, passe faire un tour au Diwan si tu veux un bon vrai tacos. #OtacosSurcoté #TacosVie
 
 Si tu as la flemme de bouger, pense au Ninkasi à côté! <br>
@@ -29,17 +31,19 @@ Besoin de quelque chose vraiment raffiné ? Va faire un tour chez Bocuse à Coll
 Avec ta mif, tu découvriras assez vite le Flam's, lieu de partage et de convivialité.  <br><br>
 
  
-<img id="INSA_FLAMS" src="content/img/INSA_FLAMS.png"></img>
+
   
 
 <strong>A la recherche d’un peu de culture ? </strong> <br>
 
 Fonce à la cité internationale (tu peux y aller à pied ou en C26) t’as le cinéma et le Musée d’Art Contemporain, le MAC pour les intimes. Va faire un tour au musée des Confluences ou au musée des Beaux-Arts pour parfaire ta culture de petit Astérix. T’as aussi le théâtre des Célestins pour te détendre entre deux espaces vectoriels… Sans oublier la traditionnelle fête des lumières! <br><br>
 
+<img id="lyon_fourviere" src="content/img/lyon_fourviere.png"></img>
+
 Si tu es une fraîcheur insta assumée, tu pourras compter sur les couchers de soleil de Fourvière pour pimper tes publications.   <br><br>	
 
   
-<img id="lyon_fourviere" src="content/img/lyon_fourviere.jpg"></img>
+
   
 
   
