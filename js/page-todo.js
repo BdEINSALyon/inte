@@ -4,13 +4,13 @@ $(document).ready( function() {
 
 
 
-	console.log("START fonction v1.0.2");
+	console.log("START fonction v1.0.3");
 
 	$("#downloadFile").click( function(){
 		
 		//console.log("ADD");
 
-		window.open("download_questionnaire.php");
+		window.open("Questionnaire_INSA.pdf");
 		
 	});
 
