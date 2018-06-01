@@ -331,7 +331,7 @@
 
 				<gras>Mister cocktail :</gras> jvous jure elle est pas plus folle <br> 
 
-				<gras>Mole :</gras> demi, t'a la haine <br> 
+				<gras>Mole :</gras> demi, t'as la haine <br> 
 
 				<gras>Magique :</gras> inté  <br>
 

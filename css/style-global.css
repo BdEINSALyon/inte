@@ -824,6 +824,9 @@ button#linkFB:hover{
     background: #2aabe2;
 }
 
+img#INSA_COOP {
+    width: 39%;
+}
 
 .ssElemen::before {
     content: '\f08d';

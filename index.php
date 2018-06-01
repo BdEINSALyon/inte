@@ -109,7 +109,7 @@ Un paisible soleil se lève avec la Gaule. Le campus semble désert et pourtant,
 
 Ce qui se trouve sous tes yeux est l’ultime guide du village : Le Site de Parrainage (ça rime). Confectionné avec soin par un groupe d’élus ayant tout donné lors de combats acharnés pour avoir le privilège de te montrer les merveilles de ta future maison, ce site va t’expliquer tout ce que tu t’apprêtes à rencontrer au cours de ton cursus. <br>
 
-Tu y trouveras toutes sortes d’informations sur ton rite de passage d’irréductible étudiant à irréductible ingénieur, sur ta chaumière, sur la vie au village, sur la taverne et surtout sur L’ENORME QUE DIS-JE PAR TOUTATIS , LA DIVINE INTEGRATION que nous, les CDP’s (Chamois du Périgord où Comité de Parrainage à toi de voir..) te préparons d’arrache-pied depuis 4 mois. <br>	
+Tu y trouveras toutes sortes d’informations sur ton rite de passage d’irréductible étudiant à irréductible ingénieur, sur ta chaumière, sur la vie au village, sur la taverne et surtout sur L’ENORME QUE DIS-JE PAR TOUTATIS , LA DIVINE INTEGRATION que nous, les CDP’s (Chamois du Périgord ou Comité de Parrainage à toi de voir..) te préparons d’arrache-pied depuis 4 mois. <br>	
 
 </p>
 						<ul class="actions">
