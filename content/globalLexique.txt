@@ -16,7 +16,7 @@
 
 			<gras>Asinsa :</gras> c'est pas la taille qui compte  <br>
 
-			<gras>Ambulance :</gras> Uber pas cher   <br>
+			<gras>Ambulance :</gras> Uber pas cher   <br> 
 
 			<gras>Alarme :</gras> Quand elle sonne pas, inquiète toi  <br>
 
@@ -480,8 +480,6 @@
 				<gras>Rallye :</gras> la piscine c'est bien , les fontaines c'est mieux  <br>
 
 				<gras>R :</gras> ce que le poly respecte  <br>
-
-				<gras>Resp :</gras> <br>
 	 
 			</div>
 

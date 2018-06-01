@@ -157,7 +157,7 @@ $(document).ready( function() {
 		loadImgTxt();
 		$('html, body').animate({
 	        scrollTop: $("#detailsInfo").offset().top-50
-	    }, 2000);
+	    }, 1000);
 		
 	});
 
@@ -330,7 +330,7 @@ function loadBtnClick(){
 		
 		$('html, body').animate({
 	        scrollTop: $("#detailsInfo").offset().top-50
-	    }, 100);
+	    }, 500);
 	});
 
 
