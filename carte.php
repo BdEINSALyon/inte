@@ -90,9 +90,9 @@
 									</div>
 									<div id="itemInte" class="element ">Organisation intégration</div>
 									<div id="itemDeguisement" class="element ">Ton déguisement</div>
-									<div id="itemWEI" class="element">Le Wei</div>
+									<div id="itemWEI" class="element">Le WEI</div>
 									<div id="itemTurne" class="element ">Ta turne</div>
-									<div id="itemKFET" class="element ">Le campus et la KFET</div>
+									<div id="itemKFET" class="element ">Le campus et la K-Fêt	</div>
 									<div id="itemRestaurant" class="element ">Les restaurants</div>
 									<div id="itemBDE" class="element ">Le BDE</div>
 									<div id="itemEvent"  class="element ">Événements de l'année</div>

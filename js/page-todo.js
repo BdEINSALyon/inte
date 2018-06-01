@@ -14,6 +14,14 @@ $(document).ready( function() {
 		
 	});
 
+	$("#linkFB").click( function(){
+		
+		//console.log("ADD");
+
+		window.open("https://www.facebook.com/groups/200773947209831/");
+		
+	});
+
 	$("#fermerPUBTodo").click( function(){
 
 		$(".pub").fadeOut();

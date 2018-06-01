@@ -83,7 +83,7 @@
 
 						<div class="blocList">
 
-							<div class="partListe"><i id="joinFb" class="fab fa-facebook-square"></i>Rejoindre le groupe Facebook "INSA Lyon – Admis en 1ère année 2018/2019 - 62ème promo" </div>
+							<div class="partListe"><i id="joinFb" class="fab fa-facebook-square"></i>Rejoindre le groupe Facebook "INSA Lyon – Admis en 1ère année 2018/2019 - 62ème promo" <button class="decouvrir" id="linkFB">Rejoindre</button></div>
 
 							<div class="partListe"><i id="downloadIcon" class="fas fa-cloud-download-alt"></i>Télécharger le questionnaire <button class="decouvrir" id="downloadFile">Télécharger le questionnaire</button></div>
 

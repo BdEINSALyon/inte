@@ -218,7 +218,7 @@ function loadImgTxt(){
 	}
 	else if(id=="KFET"){
 		
-		$("#detailsInfo .titre").html("Le campus et la KFET");
+		$("#detailsInfo .titre").html("Le campus et la K-Fêt");
 	}
 	else if(id=="Deguisement"){
 		

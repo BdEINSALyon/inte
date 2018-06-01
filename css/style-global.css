@@ -529,7 +529,7 @@ img#INSA_FLAMS {
 
 img#lyon_fourviere {
     width: 45%;
-    margin: -1em 28% 0;
+    margin: -3em 28% 1em;
 }
 
 .fondBizuth {
@@ -815,6 +815,15 @@ button#goWEI:hover{
     background: #2aabe2;
 }
 
+button#linkFB {
+    font-size: 0.6em;
+    margin: 0.1em 0 0 1em;
+}
+button#linkFB:hover{
+    color:white !important;
+    background: #2aabe2;
+}
+
 
 .ssElemen::before {
     content: '\f08d';
@@ -846,11 +855,12 @@ img#asso_Panneau {
     margin: 0 0 0 -5em;
 }
 
-
-img#INSA_COOP {
-    width: 40%;
-    margin: 0 3em;
+img#INSA_FLAMS {
+    width: 30%;
+    margin: 1em -3em 0em 2em;
+    float: right;
 }
+
 
 @media screen and (max-width: 640px) {
 
