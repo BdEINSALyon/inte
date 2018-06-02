@@ -1,4 +1,8 @@
 
+@font-face {
+  font-family: "OMNIBLACK";
+  src: url("../assets/fonts/OMNIBLACK_italic.otf");
+}
 
 
 .asterixPres{
@@ -835,6 +839,10 @@ img#INSA_COOP {
 }
 
 
+#blocToDoBtn li a{
+    color:red;
+}
+
 .ssElemen {
     margin-left: 10%;
     font-size: 1.1em;
@@ -843,6 +851,27 @@ img#INSA_COOP {
 .titreTodo{
     text-align: center; 
 }
+
+
+#blocToDoBtn li a {
+    color: white !important;
+    background: #2aabe2;
+    margin: 0 1em 0 0;
+    box-shadow: none;
+    border-radius: 3px;
+}
+#blocToDoBtn li a:hover{
+    color: #2aabe2 !important;
+    background: white;
+    transition: 1s;
+}
+
+
+.styleWei{
+    font-family: 'OMNIBLACK';
+}
+
+
 
 
 img#asso_Rond {
@@ -862,6 +891,27 @@ img#INSA_FLAMS {
     width: 30%;
     margin: 1em -3em 0em 2em;
     float: right;
+}
+
+.styleWei {
+    font-family: 'OMNIBLACK';
+    font-size: 3em;
+    color: white;
+}
+.blocWEI {
+    margin-left: 1.5em;
+    color: white;
+}
+
+img#wei_logo {
+    float: right;
+    width: 25%;
+    margin: -6em -4em 0em 1em;
+}
+
+img#wei_Back {
+    width: 120%;
+    margin: -2em -10% 0px;
 }
 
 
@@ -963,6 +1013,13 @@ img#INSA_FLAMS {
     }
     .btnTodo ul{
         margin:1em 0 0;
+    }
+
+    ul#blocToDoBtn {
+        width: 22%;
+        font-size: 0.6em;
+        float: right;
+        margin-right: 0.8em;
     }
 
 

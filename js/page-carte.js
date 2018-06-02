@@ -282,6 +282,14 @@ function loadImgTxt(){
 			$("#detailsInfo").css('background-color','#f5c644')
 			$("#detailsInfo .titre").addClass("hidden");
 		});	
+
+		$.get('content/global'+id+'.txt', function(data) {
+			// console.log(data);
+			$("#detailsInfo p").html(data);	
+			loadBtnClick();
+		});
+
+
 		// $("#imgWEI").css("background-image", "url(./content/carte_"+id+".png)");
 	}
 	else{

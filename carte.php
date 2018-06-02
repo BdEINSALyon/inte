@@ -53,10 +53,11 @@
 					<i class="fas fa-angle-right"></i>
 					<span class=""><a href="todo.php">To-Do-List</a></span>
 				</div>
-				<nav>
-					
-
-				</nav>
+				<div>
+					<ul id="blocToDoBtn" class="actions">
+						<li><a href="todo.php" class="button alt scrolly">Voir la to-do-list</a></li>
+					</ul>
+				</div>
 			</header>
 
 		<!-- Nav
@@ -82,7 +83,7 @@
 							<div class="row-2">
 								<div class="liste">
 									<div class="titre">Liste des aventures</div>
-									<div id="itemTeam" class="element selected ">
+									<div id="itemTeam" class="element  ">
 										Ta tribu
 										<div class="btnDecouvert">
 											<button class="decouvrir">Découvrir</button>
@@ -90,7 +91,7 @@
 									</div>
 									<div id="itemInte" class="element ">Organisation intégration</div>
 									<div id="itemDeguisement" class="element ">Ton déguisement</div>
-									<div id="itemWEI" class="element">Le WEI</div>
+									<div id="itemWEI" class="element selected">Le WEI</div>
 									<div id="itemTurne" class="element ">Ta turne</div>
 									<div id="itemKFET" class="element ">Le campus et la K-Fêt	</div>
 									<div id="itemRestaurant" class="element ">Les restaurants</div>
@@ -167,7 +168,7 @@
 									
 								</div>
 
-								<div class="fond">
+								<div class="fond hidden">
 									<div class="btnTodo	">
 										Tu penses connaître ton village ?
 										<ul class="actions">

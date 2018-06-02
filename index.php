@@ -72,7 +72,7 @@
 					<div class="inner">
 						<header>
 							<h2>Le début de cette nouvelle aventure</a></h2>
-							<p class="info">Nous sommes en l’an 50 après JC (Jean Capelle). Toutes les places du classement des meilleures écoles d‘ingénieurs sont occupées par des écoles post-prépas… Toutes ? Non ! </p>
+							<p class="info">Nous sommes en l’an 62 après JC (Jean Capelle). Toutes les places du classement des meilleures écoles d‘ingénieurs sont occupées par des écoles post-prépas… Toutes ? Non ! </p>
 						</header>
 						<p>
 
@@ -109,7 +109,7 @@ Un paisible soleil se lève avec la Gaule. Le campus semble désert et pourtant,
 
 Ce qui se trouve sous tes yeux est l’ultime guide du village : Le Site de Parrainage (ça rime). Confectionné avec soin par un groupe d’élus ayant tout donné lors de combats acharnés pour avoir le privilège de te montrer les merveilles de ta future maison, ce site va t’expliquer tout ce que tu t’apprêtes à rencontrer au cours de ton cursus. <br>
 
-Tu y trouveras toutes sortes d’informations sur ton rite de passage d’irréductible étudiant à irréductible ingénieur, sur ta chaumière, sur la vie au village, sur la taverne et surtout sur L’ENORME QUE DIS-JE PAR TOUTATIS , LA DIVINE INTEGRATION que nous, les CDP’s (Chamois du Périgord ou Comité de Parrainage à toi de voir..) te préparons d’arrache-pied depuis 4 mois. <br>	
+Tu y trouveras toutes sortes d’informations sur ton rite de passage d’irréductible étudiant à irréductible ingénieur, sur ta chaumière, sur la vie au village, sur la taverne et surtout sur L’ENORME QUE DIS-JE PAR TOUTATIS , LA DIVINE INTEGRATION que nous, les CDP’s (Chamois du Périgord ouæ Comité de Parrainage à toi de voir..) te préparons d’arrache-pied depuis 4 mois. <br>	
 
 </p>
 						<ul class="actions">
@@ -136,7 +136,7 @@ Tu y trouveras toutes sortes d’informations sur ton rite de passage d’irréd
 						</header>
 						<p>Alors lis bien tout ce qu’on t’a écrit et si tu veux déjà prendre contact avec les autres petits Astérix, ou poser des questions diverses et variées (fais toi plaisir j’hésiterai pas à mettre en lumière les plus loufoques (à savoir comment un loup et un phoque on fait pour… bref je m’égare encore)) rends toi sur la page Facebook INSA Lyon - Admis en 1ere année 2018/2019 - 62ème promo ! <br>
 
-On a tellement hâte de te rencontrer et de t’accueillir parmi nous petit Astérix. Profite bien de tes vacances pour arriver en pleine forme en Septembre car l’inté sera unique, on a la potion magique ! » comme dirait l’un des bardes du village. <br>
+On a tellement hâte de te rencontrer et de t’accueillir parmi nous petit Astérix. Profite bien de tes vacances pour arriver en pleine forme en Septembre car "l’inté sera unique, on a la potion magique ! " comme dirait l’un des bardes du village. <br>
 
 Moustache et champignons <br>
 

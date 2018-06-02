@@ -1,0 +1,19 @@
+
+<span class="styleWei" >Le WEI</span><br>
+
+
+ <div class="blocWEI"> 
+
+ 	<img id="wei_logo" src="content/img/wei_logo.png"></img>
+
+Hola jeune Astérix ! <br>
+   Tu penses encore que l’inté se finit après le Rallye ? Et que tu vas déjà devoir dire adieu à ton été ? Au contraire ! Réserve dès maintenant ton week-end du 22 et 23 SEPTEMBRE car on t’emmène à VIAS pour le fameux et tant attendu WEEK-END D’INTÉGRATION (ou WEI) !
+     Où ça se passe ? Cette année encore, le WEI a lieu au Napoléon, un camping 5 étoiles à Vias Plage qui a l’habitude de nous accueillir et qui nous fait entièrement confiance d’année en année. Vous serez logés dans des bungalows avec lits et salle de bain et nourris par le traiteur du camping.
+     Mais le WEI, c’est quoi ? C’est 460 primo-entrants et 60 organisateurs qui partent en bus pour la plage pour encore plus de jeux, de chill, de rencontres, et de clubbing ! Toutes les activités sont supervisées par l’équipe CoWEI (Comité d’Organisation du Week-End d’Intégration), soit 14 personnes qui travaillent depuis octobre dernier pour te préparer un des événements les plus mémorables de ta scolarité à l’INSA. Logement, repas, activités, trajets, sécurité, etc. ON S’OCCUPE DE TOUT ! </div><br>
+
+<span class="styleWei">Fly Awei, all around the world.</span><br>
+
+    <div class="blocWEI">Cette année le thème c’est FLY AWEI ! Pourquoi ? Tu découvriras très vite en arrivant à l’INSA que c’est une école très cosmopolite et ouverte sur le monde. C’était important pour nous de t’accueillir dans ce thème : Fly Awei, c’est le voyage et l’évasion ! Alors oublie ta gourde de potion magique et amène un déguisement sur le thème du voyage et des différentes cultures du monde. Alors, tu seras plutôt béret et baguette de pain à la française, poncho mexicain, ou encore kimono ? Surprends-nous : on récompensera le déguisement le plus original ! </div>
+
+
+   <img id="wei_Back" src="content/img/wei_Back.png"></img>
