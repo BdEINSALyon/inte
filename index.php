@@ -28,9 +28,11 @@
 					<i class="fas fa-angle-right"></i>
 					<span class=""><a href="todo.php">To-Do-List</a></span>
 				</div>
-				<nav>
-					<!--<a href="#menu">Menu</a>-->
-				</nav>
+				<div>
+					<ul id="blocToDoBtn" class="actions">
+						<li><a href="todo.php" class="button alt scrolly">Voir la to-do-list</a></li>
+					</ul>
+				</div>
 			</header>
 
 		<!-- Nav
@@ -71,12 +73,17 @@
 				<div class="content">
 					<div class="inner">
 						<header>
+
+							<div class="warning">
+								Afin de participer à l'intégration 2018, n'oublie pas de passer à un moment par la To-Do-List
+							</div>
+
 							<h2>Le début de cette nouvelle aventure</a></h2>
-							<p class="info">Nous sommes en l’an 50 après JC (Jean Capelle). Toutes les places du classement des meilleures écoles d‘ingénieurs sont occupées par des écoles post-prépas… Toutes ? Non ! </p>
+							<p class="info">Nous sommes en l’an 62 après JC (Jean Capelle). Toutes les places du classement des meilleures écoles d‘ingénieurs sont occupées par des écoles post-prépas… Toutes ? Non ! </p>
 						</header>
 						<p>
 
-Une petite école d’irréductibles ingénieurs résiste encore et toujours à l’envahisseur. Et la vie n’est pas facile pour les garnisons de try-harders des prépas retranchées du Parc, de la Martinière où pour les tacticiens de l’IUT évoluant aux alentours de ce lieu mystérieux et inconnu que représente l’INSA de Lugdunum.<br>
+Une petite école d’irréductibles ingénieurs résiste encore et toujours à l’envahisseur. Et la vie n’est pas facile pour les garnisons de try-harders des prépas retranchées du Parc, de la Martinière ou pour les tacticiens de l’IUT évoluant aux alentours de ce lieu mystérieux et inconnu que représente l’INSA de Lugdunum.<br>
 
 Un paisible soleil se lève avec la Gaule. Le campus semble désert et pourtant, une présence nouvelle et inconnue se fait sentir. FilièreClassix effectuait sa chasse au temps libre matinal et s’apprêtait à revenir bredouille comme à son habitude, lorsqu’il entendit un bruit au détour d’un buisson. Il pensa d’abord à un rhinocéros mais l’absence d’odeur d’urine lui fît abandonner cette piste. Il s’approcha doucement et vît un groupe de jeunes adultes sur le point de pénétrer dans son domaine, une foule de petits Astérix, tout droit sortis des Lycéeums, ces camps d’entraînement qui les préparent à l’entrée dans la vie passionnante mais éprouvante d’irréductibles étudiants. Le jeune FilièreClassix vît en eux le jeune Mario perdu qu’il était un an plus tôt. Il s’adressa alors à ses nouveaux camarades afin de les accueillir et de les guider dans ce qui allait bientôt être les plus belles années de leur vie.
 
@@ -107,9 +114,9 @@ Un paisible soleil se lève avec la Gaule. Le campus semble désert et pourtant,
 
 « Salut à toi Jeune Astérix, oui toi qui lis ces lignes, pas besoin de potion magique pour briser le quatrième mur ! Ça y est, tu l’as fait ! Tu as enfin réussi à t’extirper de ton camp d’entrainement et après avoir vaincu les régiments de ParcourSupus et de Baccalauréus, félicitations, te voilà enfin à la maison. Tu te demandes certainement qui nous sommes, qui peuple ce village et surtout qu’est-ce que tu tiens entre tes mains…(une souris ou un pad normalement mais on est pas au premier degré surtout qu’on est en été et qu’il fait 25 bref tu m’as compris je m’égare (de Lyon)). <br>
 
-Ce qui se trouve sous tes yeux est l’ultime guide du village : Le Site de Parrainage (ça rime). Confectionné avec soin par un groupe d’élus ayant tout donné lors de combats acharnés pour avoir le privilège de te monter les merveilles de ta future maison, ce site va t’expliquer tout ce que tu t’apprêtes à rencontrer au cours de ton cursus. <br>
+Ce qui se trouve sous tes yeux est l’ultime guide du village : Le Site de Parrainage (ça rime). Confectionné avec soin par un groupe d’élus ayant tout donné lors de combats acharnés pour avoir le privilège de te montrer les merveilles de ta future maison, ce site va t’expliquer tout ce que tu t’apprêtes à rencontrer au cours de ton cursus. <br>
 
-Tu y trouveras toutes sortes d’informations sur ton rite de passage d’irréductible étudiant à irréductible ingénieur, sur ta chaumière, sur la vie au village, sur la taverne et surtout sur L’ENORME QUE DIS-JE PAR TOUTATIS , LA DIVINE INTEGRATION que nous, les CDP’s (Chamois du Périgord où Comité de Parrainage à toi de voir..) te préparons d’arrache-pied depuis 4 mois. <br>	
+Tu y trouveras toutes sortes d’informations sur ton rite de passage d’irréductible étudiant à irréductible ingénieur, sur ta chaumière, sur la vie au village, sur la taverne et surtout sur L’ENORME QUE DIS-JE PAR TOUTATIS , LA DIVINE INTEGRATION que nous, les CDP’s (Chamois du Périgord ou Comité de Parrainage à toi de voir..) te préparons d’arrache-pied depuis 4 mois. <br>	
 
 </p>
 						<ul class="actions">
@@ -134,9 +141,9 @@ Tu y trouveras toutes sortes d’informations sur ton rite de passage d’irréd
 							<h2><a href="">A toi de jouer !</a></h2>
 							<p class="info">Ta première mission en tant que jeune Astérix</p>
 						</header>
-						<p>Alors lis bien tout ce qu’on t’a écrit et si tu veux déjà prendre contact avec les autres petits Astérix, ou poser des questions diverses et variées (fais toi plaisir j’hésiterai pas à mettre en lumière les plus loufoques (à savoir comment un loup et un phoque on fait pour… bref je m’égare encore)) rends toi sur la page Facebook INSA Lyon - Admis en 1ere année 2018/2019 - 62ème promo ! <br>
+						<p>Alors lis bien tout ce qu’on t’a écrit et si tu veux déjà prendre contact avec les autres petits Astérix, ou poser des questions diverses et variées (fais toi plaisir j’hésiterai pas à mettre en lumière les plus loufoques (à savoir comment un loup et un phoque on fait pour… bref je m’égare encore)) rends toi sur la page Facebook INSA Lyon - Admis en 1ere année 2018/2019 - 62éme promo ! <br>
 
-On a tellement hâte de te rencontrer et de t’accueillir parmi nous petit Astérix. Profite bien de tes vacances pour arriver en pleine forme en Septembre car l’inté sera unique, on a la potion magique ! » comme dirait l’un des bardes du village. <br>
+On a tellement hâte de te rencontrer et de t’accueillir parmi nous petit Astérix. Profite bien de tes vacances pour arriver en pleine forme en Septembre car "l’inté sera unique, on a la potion magique ! " comme dirait l’un des bardes du village. <br>
 
 Moustache et champignons <br>
 
@@ -224,9 +231,9 @@ Tes Marios à l’autre bout du tuyau.</p>
 		<!-- Footer -->
 			<footer id="footer">
 				<ul class="icons">
-					<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-					<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-					<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+					
+					<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li> 
+					<span id="joinFBFooter">Rejoins le groupe Facebook "INSA Lyon – Admis en 1ère année 2018/2019 - 62ème promo"</span>	
 				</ul>
 				<div class="copyright">
 					<!--&copy; Untitled. Design: <a href="https://templated.co">TEMPLATED</a>. Images: <a href="https://unsplash.com">Unsplash</a>.-->

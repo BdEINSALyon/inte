@@ -29,7 +29,7 @@ Félicitations à toi qui as intégré l'INSA ! Cependant, tu dois aussi savoir 
   
 
 <strong>Eurinsa </strong> <br>  
-<img id="filiere_Branleur" src="content/img/filiere_Branleur.svg"></img>
+<img id="filiere_Branleur" src="content/img/filiere_branleur.svg"></img>
 <br>  
 La filière centrée sur l’EUROPE ! Considérée comme la plus chanceuse, du fait que tu n’auras pas d’IE (voir lexique) toutes les semaines. Or tu devras bien les rattraper à un moment, donc prépare toi à te taper un marathon des IE certaines semaines, ça va être sportif. <br><br>
 

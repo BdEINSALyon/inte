@@ -7,9 +7,6 @@ Arrive maintenant la page de la nouveauté pour toi petit bizuth, le truc que tu
 <strong>La COOP</strong> <br>
 
 Marre du point A et plus rien dans ta turne? N’hésite plus et fonce à la COOP, c’est la petite épicerie du campus (et ouais en plus de dormir, faire la fête, du sport, des apéros (ah oui, et travailler), tu peux même faire tes courses sur le campus). Juste au dessus de ton sanctuaire préféré (j’ai nommé la Kfet), hésite pas à y passer muni de ta carte VA, tu pourras trouver de la sauce pour ton sanglier, des copies (c’est éventuellement pratique), un trace-cercle (t’as sûrement aucune idée de ce que c’est, mais ça deviendra ton meilleur pote), et du PQ (si t’es au E tu comprendras). C’est plus proche que le Carrefour Market, mais t’y trouveras peut-être pas forcément ta potion magique préférée… <br><br>
-
-
-
  
 
 <strong>Scanners et imprimantes </strong><br>
@@ -48,6 +45,12 @@ Et si jamais, en bon biz que tu es, tu oubliais de leur rendre une petite visite
 <a id="linkInsa">https://www.insashop.fr/</a>
 
  <img id="bde_shop" src="content/img/bde_shop.svg"></img>
+
+
+ <strong>Bon plan pour la rentrée</strong><br>
+
+
+ <img id="INSA_COOP" src="content/img/INSA_COOP.png"></img>
  
 
  

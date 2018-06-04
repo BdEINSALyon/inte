@@ -6,7 +6,7 @@ T'as kiffé l'inté ? Tout le mérite revient à #INSAcasselescouilles. Un grand
 
 Pour faire simple, tes 12 travaux à côté c’est un banal échauffement. Donc n’hésite pas, toi et tes potes, à dévorer un maximum de sanglier et à boire de bonnes grosses gourdes de potion magique avant d’y aller parce qu’il ne s’agira pas de soulever un simple menhir. J’espère que tu es plus endurant qu’un aventurier de Koh l’INSA car on parle bien de VTT, trail, run & bike et course d’orientation. Je te préviens, la seule chose dont tu seras autorisé à avoir peur pendant cet événement c’est que le ciel te tombe sur la tête… et encore.  <br><br>
 
-<img id="event_Bal" src="content/img/event_Bal.svg"></img>
+<img id="event_Bal" src="content/img/event_bal.svg"></img>
 
 <strong>Le Bal  </strong><br>
 

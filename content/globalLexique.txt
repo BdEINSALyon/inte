@@ -16,7 +16,7 @@
 
 			<gras>Asinsa :</gras> c'est pas la taille qui compte  <br>
 
-			<gras>Ambulance :</gras> Uber pas cher   <br>
+			<gras>Ambulance :</gras> Uber pas cher   <br> 
 
 			<gras>Alarme :</gras> Quand elle sonne pas, inquiète toi  <br>
 
@@ -331,7 +331,7 @@
 
 				<gras>Mister cocktail :</gras> jvous jure elle est pas plus folle <br> 
 
-				<gras>Mole :</gras> demi, t'a la haine <br> 
+				<gras>Mole :</gras> demi, t'as la haine <br> 
 
 				<gras>Magique :</gras> inté  <br>
 
@@ -480,8 +480,6 @@
 				<gras>Rallye :</gras> la piscine c'est bien , les fontaines c'est mieux  <br>
 
 				<gras>R :</gras> ce que le poly respecte  <br>
-
-				<gras>Resp :</gras> <br>
 	 
 			</div>
 
