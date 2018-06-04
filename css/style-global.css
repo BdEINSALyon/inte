@@ -873,6 +873,26 @@ img#INSA_COOP {
 
 
 
+.warning {
+    text-align: left;
+    font-size: 1.1em;
+    /* border: 1px solid gray; */
+    border-radius: 5px;
+    padding: 0.5em 1em;
+    margin-bottom: 1em;
+    background: #2aabe2;
+    font-weight: bold;
+    color: white;
+}
+
+.warning:before{
+    content: '\f071';
+    font-family: FontAwesome;
+    margin-right: 5px;
+}
+
+
+
 
 img#asso_Rond {
     width: 35%;
@@ -1020,6 +1040,10 @@ img#wei_Back {
         font-size: 0.6em;
         float: right;
         margin-right: 0.8em;
+    }
+
+    .warning{
+        font-size: 0.7em;
     }
 
 

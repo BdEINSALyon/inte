@@ -28,9 +28,11 @@
 					<i class="fas fa-angle-right"></i>
 					<span class=""><a href="todo.php">To-Do-List</a></span>
 				</div>
-				<nav>
-					<!--<a href="#menu">Menu</a>-->
-				</nav>
+				<div>
+					<ul id="blocToDoBtn" class="actions">
+						<li><a href="todo.php" class="button alt scrolly">Voir la to-do-list</a></li>
+					</ul>
+				</div>
 			</header>
 
 		<!-- Nav
@@ -71,6 +73,11 @@
 				<div class="content">
 					<div class="inner">
 						<header>
+
+							<div class="warning">
+								Afin de participer à l'intégration 2018, n'oublie pas de passer à un moment par la To-Do-List
+							</div>
+
 							<h2>Le début de cette nouvelle aventure</a></h2>
 							<p class="info">Nous sommes en l’an 62 après JC (Jean Capelle). Toutes les places du classement des meilleures écoles d‘ingénieurs sont occupées par des écoles post-prépas… Toutes ? Non ! </p>
 						</header>

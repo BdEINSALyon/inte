@@ -31,9 +31,11 @@
 					<i class="fas fa-angle-right"></i>
 					<span class=""><a href="todo.php">To-Do-List</a></span>
 				</div>
-				<nav>
-					<!--<a href="#menu">Menu</a>-->
-				</nav>
+				<div>
+					<ul id="blocToDoBtn" class="actions">
+						<li><a href="todo.php" class="button alt scrolly">Voir la to-do-list</a></li>
+					</ul>
+				</div>
 			</header>
 
 		<!-- Nav
