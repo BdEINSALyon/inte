@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> b1e817e41482fe28457ece18ca0714ad684449c0
 <!DOCTYPE HTML>
 <!--
 	Binary by TEMPLATED
@@ -7,6 +10,15 @@
 -->
 <html>
 	<head>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-120533460-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-120533460-1');
+		</script>
 		<title>Intégration INSA Lyon</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -249,6 +261,7 @@ Tes Marios à l’autre bout du tuyau.</p>
 			<script src="assets/js/main.js"></script>
 
 	</body>
+<<<<<<< HEAD
 =======
 <!DOCTYPE HTML>
 <!--
@@ -503,4 +516,6 @@ Tes Marios à l’autre bout du tuyau.</p>
 
 	</body>
 >>>>>>> 629d11c75b89456d1034eb48fe8143e536181f40
+=======
+>>>>>>> b1e817e41482fe28457ece18ca0714ad684449c0
 </html>
