@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> b1e817e41482fe28457ece18ca0714ad684449c0
 <!DOCTYPE HTML>
 <!--
 	Binary by TEMPLATED

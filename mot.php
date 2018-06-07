@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 <!DOCTYPE HTML>
 <!--
 	Binary by TEMPLATED
