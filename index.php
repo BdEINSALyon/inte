@@ -62,14 +62,22 @@
 				<div id="innerHead" class="inner">
 					<h1><span class="asterixPres" >Avé petit Astérix</span><br />
 					Viens découvrir ce que cette année te réserve </h1>
-					<ul class="actions">
+
+
+					
+					<ul id="decouvrirHead" class="actions">
 						<li><a href="#one" class="button alt scrolly big">Découvrir</a></li>
 					</ul>
+					
+
 				</div>
 
 				<div class="blocImg" id="logoDroiteHome">
 					<img src="content/img/presentation_droite_homePage.svg"></img>
-				</div>
+				</div>	
+
+				<div id="bdeLogo"><img src="images/bde.svg"></img></div>
+				<div id="insaLogo"><img src="images/insa.svg"></img></div>
 
 				<div class="clearboth"></div>
 			</section>
