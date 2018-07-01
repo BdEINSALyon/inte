@@ -6,6 +6,14 @@ $(document).ready( function() {
 
 	console.log("START fonction v1.0.3");
 
+	$("#downloadFileWei").click( function(){
+		
+		//console.log("ADD");
+
+		window.open("FormulaireAdhesionVAWEI.pdf");
+		
+	});
+
 	$("#downloadFile").click( function(){
 		
 		//console.log("ADD");
@@ -13,6 +21,7 @@ $(document).ready( function() {
 		window.open("Questionnaire_INSA.pdf");
 		
 	});
+	
 
 	$("#linkFB").click( function(){
 		

@@ -94,6 +94,16 @@ span#joinFBFooter {
     border-bottom: 1px solid gray;
 }
 
+button#downloadFileWei {
+    padding: 1.1em;
+    font-size: 0.9em;
+    margin: 1em 0;
+}
+
+div.center{
+    text-align: center;
+}
+
 .image{
 	width:20%;
 }

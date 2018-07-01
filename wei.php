@@ -75,7 +75,7 @@
 
 
 					<header>
-						<h1 class="titreTodo">Inscription au WEI</h1>
+						<h1 class="titreTodo"><i id="sunIcon" class="fas fa-sun"></i>Inscription au WEI</h1>
 					</header>
 
 
@@ -83,7 +83,17 @@
 
 						<div class="blocList">
 
-							<div class="partListeWEI"><i id="sunIcon" class="fas fa-sun"></i>Désolé, reviens plus tard ! <br> Les inscriptions au WEI ouvriront dès le 1er Juillet. On t'y attend de pied ferme petit Astérix !</div>
+							<div class="partListeWEI">
+
+							Pour t’inscrire au WEI, il faut aussi adhérer à la VA (Vie Associative) ! <br>Qu’est-ce que la VA ? C’est ce qui te permet d’avoir accès à TOUS les services du BdE (lessives, photocopieurs, …), ainsi qu’aux soirées et aux nombreux événements associatifs, notamment l’intégration. On t’en dit plus dans le fichier PDF. <br>
+
+							<div><button class="decouvrir" id="downloadFileWei">Télécharger le pdf</button></div>
+
+
+
+							Donc imprime, complète et renvoie le coupon à l’adresse indiquée avec le chèque pour la VA, le chèque pour le WEI, et un chèque de caution (non encaissé). <br><br>
+
+							Si tu as un problème ou une simple question par rapport à tout ça, n’hésite pas à nous en faire part à wei@bde-insa-lyon.fr !
 
 						 </div>
 

@@ -13,7 +13,20 @@ Hola jeune Astérix ! <br>
 
 <span class="styleWei">Fly Awei, all around the world.</span><br>
 
-    <div class="blocWEI">Cette année le thème c’est FLY AWEI ! Pourquoi ? Tu découvriras très vite en arrivant à l’INSA que c’est une école très cosmopolite et ouverte sur le monde. C’était important pour nous de t’accueillir dans ce thème : Fly Awei, c’est le voyage et l’évasion ! Alors oublie ta gourde de potion magique et amène un déguisement sur le thème du voyage et des différentes cultures du monde. Alors, tu seras plutôt béret et baguette de pain à la française, poncho mexicain, ou encore kimono ? Surprends-nous : on récompensera le déguisement le plus original ! </div>
+    <div class="blocWEI"> Cette année le thème c’est FLY AWEI ! Pourquoi ? Tu découvriras très vite en arrivant à l’INSA que c’est une école très cosmopolite et ouverte sur le monde. C’était important pour nous de t’accueillir dans ce thème : Fly Awei, c’est le voyage et l’évasion ! Alors oublie ta gourde de potion magique et amène un déguisement sur le thème du voyage et des différentes cultures du monde. Alors, tu seras plutôt béret et baguette de pain à la française, poncho mexicain, ou encore kimono ? Surprends-nous : on récompensera le déguisement le plus original !
+     Pour participer, c’est très simple : imprime le coupon VA (disponible dans la TO-DO-LIST) et envoie-le avec les chèques à l’adresse suivante (premier arrivée, premier servi !) : <br>
+
+     <div class="center">
+
+Équipe CoWEI – BdE INSA Lyon<br>
+18 avenue des Arts,<br>
+69621 Villeurbanne CEDEX<br>
+FRANCE</div>
+
+     Si tu as une quelconque question par rapport au WEI, n’hésite surtout pas. Tu peux poser tes questions sur le groupe de promo (les CoWEI, avec le badge Fly Awei sur leur pdp, te répondront), sur la page facebook « WEI - INSA Lyon » (que je te conseille de liker pour choper plus d’infos), ou encore par mail à l’adresse wei@bde-insa-lyon.fr. (On accepte aussi les questions des parents :) ).<br>
+
+Les CoWEI 18 <3
+</div>
 
 
    <img id="wei_Back" src="content/img/wei_Back.png"></img>
