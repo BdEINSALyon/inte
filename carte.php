@@ -77,8 +77,7 @@
 					<li><a href="elements.html">Elements</a></li>
 				</ul>
 			</nav> -->
-			<i id="fermerPUB" class="fas fa-times"></i>
-			<img id="INSA_McDo" src="content/img/INSA_McDo.png"></img>
+			
 		<!-- Main -->
 			<section class="mainMario" id="mainM">
 				<div class="inner">
