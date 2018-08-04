@@ -126,7 +126,7 @@ dans une famille qui te correspond.</p>
 
 							<div class="partListe"><i id="joinFb" class="fab fa-facebook-square"></i>Rejoindre le groupe Facebook "INSA Lyon – Admis en 1ère année 2017/2018 - 61ème promo" <a href="https://www.facebook.com/groups/1556771174354091/" target="_blank"><button class="decouvrir">Rejoindre</button></a></div>
 
-							<div class="partListe"><i id="downloadIcon" class="fas fa-cloud-download-alt"></i>Télécharger le questionnaire AD 2A<a href="download_questionnaire_2A.php" target="_blank"><button class="decouvrir">Télécharger le questionnaire</button></a></div>
+							<div class="partListe"><i id="downloadIcon" class="fas fa-cloud-download-alt"></i>Télécharger le questionnaire AD 2A <button class="decouvrir" id="downloadFile2A">Télécharger le questionnaire</button></div>
 
 							<div class="partListe"><i id="printerIcon" class="fas fa-print"></i>Imprimer et envoyer le questionnaire concocté par tes CDP chéris, à cette adresse(hyper important, sinon tu n'auras pas de parrain!) :  </div> 
 

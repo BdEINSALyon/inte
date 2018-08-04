@@ -49,9 +49,13 @@ $(document).ready( function() {
 		
 	});
 
-	
+	$("#downloadFile2A").click( function(){
+		
+		//console.log("ADD");
 
+		window.open("questionnaire_ad_2A.pdf");
+		
+	});
 
-	
 });
 
