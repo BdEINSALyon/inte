@@ -67,6 +67,7 @@
 					
 					<ul id="decouvrirHead" class="actions">
 						<li><a href="#one" class="button alt scrolly big">Découvrir</a></li>
+						<li><a href="ad-2a.php" class="button alt scrolly big">Admis Direct 2A, c'est par là</a></li>
 					</ul>
 					
 
