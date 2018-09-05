@@ -15,7 +15,7 @@
 
 		  gtag('config', 'UA-120533460-1');
 		</script>
-		<title>Astérix By CdpRecords</title>
+		<title>Intégration INSA Lyon</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -73,46 +73,45 @@
 					<header class="presParent" >
 						<h1 >Admis direct 2A</h1>
 						<p class="info" id="motParentsApercus">Si tu es sur cette page c’est que tu as été admis à l’INSA Lyon en 2 ème Année ! Bravo
-pour ton admission. Comme tu peux le constater le site de l’intégration est
+pour ton admission. Comme tu peux le constater le site d’intégration est
 principalement consacré aux primo-entrant à l’INSA. Mais rassure-toi, nous ne
-t’avons pas oublié, tu va pouvoir participer aussi à l’intégration et passer une
+t’avons pas oublié, tu vas pouvoir participer aussi à l’intégration et passer une
 semaine de folie.</p>
 					</header>
 				<div class="titre">Ta situation</div>
 
 <p>Tu es ce qu’on appelle un Admis Direct en 2 ème année, plus communément appelé
-« AD 2A ». Tu vas donc vivre l’intégration aux coté des « parrains ». Ce sont les 2 ème s
-années qui accueillent leurs bizuth (les 1 ère années entrants). Dans ton cas tu n’auras
+« AD 2A ». Tu vas donc vivre l’intégration aux cotés des « parrains ». Ce sont les 2 ème s
+années qui accueillent leurs bizuths (les 1 ère années entrants). Dans ton cas tu n’auras
 pas de bizuth mais bien un parrain 2A qui t’accompagnera dans ton intégration.
 Tu fais ainsi partie de la 61ème promo et tu es un Mario (le thème d’inté de la promo
 61). Tu peux d’ores et déjà rejoindre le groupe Facebook :
 « <a href="https://www.facebook.com/groups/1556771174354091/" target="_blank">INSA Lyon – Admis en 1 ère année 2017/2018 – 61 ème Promo</a> »</p>
 
 <div class="titre">Ta situation</div>
-<p>Maintenant que tu connais ta situation, je t’invite à surfer sur le site de l’intégration.
+<p>Maintenant que tu connais ta situation, je t’invite à surfer sur le site d’intégration.
 C’est sur ce site que tu apprendras tout sur ta future vie à l’INSA Lyon. Lorsque tu lis
-les sections, garde à l’esprits que tu es en 2A</p>
+les sections, garde à l’esprit que tu es en 2A</p>
 
 <img id="motParent_Idefix" src="content/img/motParent_Idefix.svg"></img>
 
 <div class="titre">Les sections qui ne te concernent pas :</div>
-<p><i>Ton déguisement :</i><br/>Le thème de l’intégration cette année c’est Astérix et Obélix. Ce sont les 1 ère années
-qui se déguisent pour qu’on les reconnaissent tous. Toi tu es en 2A tu n’as donc pas
+<p><i>Ton déguisement :</i><br/>Le thème de l’intégration cette année c’est Astérix. Ce sont les 1 ère années
+qui se déguisent pour qu’on les reconnaisse tous. Toi tu es en 2A tu n’as donc pas
 de déguisement à préparer. Tu pourras admirer avec tes copains 2A les magnifiques
 oreilles d’Astérix que les bizuth porteront fièrement.</p>
 <img id="motParent_Velo" src="content/img/motParent_Velo.svg"></img>
-<p><i>Les Turnes :</i><br/>Ne prends pas peur en lisant la section des turnes car OUI tu vas échapper aux
-Bâtiment A et B (tu peux sauter de joie si tu veux). Tu seras directement avec les
-2èmes années de ta promo au bâtiment C &amp; D qui sont plus modernes, plus spacieux,
+<p><i>Les Turnes :</i><br/>Ne prend pas peur en lisant la section des turnes car OUI tu vas échapper aux
+Bâtiments A et B (tu peux sauter de joie si tu veux). Tu seras directement avec les
+2èmes années de ta promo aux bâtiments C &amp; D qui sont plus modernes, plus spacieux,
 et qui disposent de toilettes dans la chambre.</p>
 
 
 	
 	
 <div class="titre">Le Questionnaire spécial 2A :</div>
-<p>Pour que nous puissions t’attribuer un parrain tu dois, au même titre que les bizuth,
-remplir un questionnaire de parrainage. Cela permettra à tes amis CdP de t’attribuer
-dans une famille qui te correspond.</p>
+<p>Pour que nous puissions t’attribuer un parrain tu dois, au même titre que les bizuths,
+remplir un questionnaire de parrainage. Cela permettra à tes amis CdP de t’attribuer une famille qui te correspond.</p>
 
 <header>
 						<h1 class="titreTodo">La TO-DO-LIST d’un AD :</h1>
