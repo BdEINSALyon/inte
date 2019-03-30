@@ -1,0 +1,46 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: inte
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: inte
+  template:
+    metadata:
+      labels:
+        app: inte
+    spec:
+      containers:
+      - name: inte-web
+        image: r.bde-insa-lyon.fr/bdeinsalyon/inte
+        ports:
+        - containerPort: 80
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: inte-svc
+spec:
+  ports:
+  - port: 80
+    targetPort: 80
+    protocol: TCP
+    name: http
+  selector:
+    app: inte
+---
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  name: inte-ing
+spec:
+  rules:
+  - host: inte.bde-insa-lyon.fr
+    http:
+      paths:
+      - path: /
+        backend:
+          serviceName: inte-svc
+          servicePort: 80
