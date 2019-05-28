@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Page Template</title>
+		<title>BdE INSA Lyon - Intégration 2019</title>
 		
 		<meta charset = "utf-8">
 		<meta name="keywords" content="insa, lyon, inté">
