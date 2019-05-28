@@ -9,29 +9,22 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 		<script src="js\timer.js"></script>
-		
-		<link rel="stylesheet" href="pc\css\pageStyle.css">
-		<link rel="stylesheet" href="pc\css\bandeau.css">
-		<link rel="stylesheet" href="pc\css\index.css">
+
+		<link rel="stylesheet" href="mobile\css\mobile_bandeau.css">
+		<link rel="stylesheet" href="mobile\css\mobile_index.css">
 		
 	</head>
 	<body>	 
-	  
-		<div id = "background"></div>
-		<img id = "imageBackground" src = "images\global\agrabah_background.png">
 		
 		<div id = "topBand">
-			<img id="logo1" src="images\global\bde_logo.png">
-			
-			<div id="countdown">
-				<p id = "timerText"></p>
-			</div>
+						
 		</div>
 		
-		<div id="topTitle">BIENVENUE À INSAGRABAH !</div>
-		
-		<div id = "pageContent">
-			<h1>Coming soon</h1>
+		<div id="sub_menu">
+			<div id="topTitle">BIENVENUE À INSAGRABAH !</div>	
+		</div>
+		<div id="pageContent">
+			<h1>Coming soon !</h1>
 			<p>Ton site pour l'integration arrive bientôt, repasse nous voir dès le 1er Juillet !</p>
 			<br><br>
 			<div class="signature">
@@ -42,36 +35,9 @@
 				<img id="abu" src = "images/abu.png">
 				<img id="abu" src = "images/bde.png">
 			</div>
+			<br><br>
+			<p id = "timerText"></p>
 		</div>
 		
-		<script>
-			if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
-				window.location.href = 'mobile.php';
-			}
-		</script>
 	</body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
