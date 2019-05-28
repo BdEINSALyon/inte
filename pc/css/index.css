@@ -1,0 +1,93 @@
+#topTitle {
+	position : absolute;
+	top:20%;
+	left:2%;
+	width:65%;
+	height:12%;
+	border:0;
+	border-radius:20px;
+	background: repeating-linear-gradient(
+		45deg,
+		rgba(0,0,0,0.5),
+		rgba(0,0,0,0.5) 10px,
+		rgba(0,0,0,0.3) 10px,
+		rgba(0,0,0,0.3) 20px
+  );
+  
+  	color:white;
+	text-align:center;
+	font-size:3.5vw;
+	line-height:150%;
+	vertical-align:middle;
+	font-family: "Verdana";
+	font-weight:bold;
+  
+}
+
+#pageContent {
+	z-index:1;
+	position:absolute;
+	padding:0;
+	top:20vw;
+	left:0;
+	border-radius:1%;
+	margin-left:2%;
+	width:96%;
+	height:80%;
+	background-color:rgba(240,240,240,1);
+}
+
+
+
+
+#pageContent h1 {
+	color:black;
+	font-family: "Verdana", sans-serif;
+	font-weight:normal;
+	font-size:5vw;
+	text-decoration:none;
+	text-align:left;
+	line-height:1;
+	margin-left:10%;
+}
+
+#pageContent p {
+	color:black;
+	font-family: "Verdana", sans-serif;
+	font-weight:normal;
+	font-size:1.5vw;
+	text-decoration:none;
+	text-align:left;
+	line-height:1;
+	margin-left:10%;
+	margin-right:10%;
+}
+
+#pageContent #abu {
+	position:relative;
+	float:left;
+	width:20%;
+}
+#pageContent #bde {
+	float:right;
+}
+#pageContent .holder {
+	margin-left:35%;
+}
+
+#pageContent .signature p{
+	color:black;
+	font-family: "Verdana", sans-serif;
+	font-weight:normal;
+	font-size:1.1vw;
+	text-decoration:none;
+	text-align:right;
+	line-height:1;
+	margin-left:10%;
+	margin-right:10%;
+}
+
+
+
+
+
