@@ -26,6 +26,8 @@
 		<div id="pageContent">
 			<h1>Coming soon !</h1>
 			<p>Ton site pour l'integration arrive bientôt, repasse nous voir dès le 1er Juillet !</p>
+			<br>
+			<p>En attendant tu peux rejoindre le groupe Facebook de ta promo sur ce lien <a href="https://www.facebook.com/groups/2340380032891518/" target="_blank">INSA Lyon - Admis en 1ère année 2019/2020 - 63ème promo</a></p>
 			<br><br>
 			<div class="signature">
 				<p>Amicalement, le BdE INSA Lyon et son Comité de parrainage</p>
