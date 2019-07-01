@@ -1,0 +1,128 @@
+@media screen and (orientation: portrait) {
+	#pageContent #firstParagraph p {
+		padding:4%;
+		font-size:4vw;
+	}
+	
+	#pageContent #firstParagraph h3 {
+		font-size:4.5vw;
+	}
+}
+
+@media screen and (orientation: landscape) {
+	#pageContent #firstParagraph p {
+		padding:6%;
+		font-size:4vh;
+	}
+	
+	#pageContent #firstParagraph h3 {
+		font-size:4.5vh;
+	}
+}
+
+#pageContent {
+	z-index:-1;
+	position:absolute;
+	margin-top:45px;
+	top:21%;
+	left:0%;
+	background-color:rgba(0,0,0,0.07);
+	width:100%;
+	height:auto;
+	font-family: "Verdana", sans-serif;
+	font-weight:normal;
+}
+
+
+#pageContent #firstParagraph h1 {
+	color:black;
+	font-family: "Verdana", sans-serif;
+	font-weight:bold;
+	font-size:200%;
+	text-decoration:none;
+	text-align:center;
+	line-height:0.8;
+}
+
+
+#pageContent #firstParagraph h3 {
+	color:black;
+	font-family: "Verdana", sans-serif;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:left;
+	line-height:1;
+	font-size:100%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+#pageContent #firstParagraph h4 {
+	color:black;
+	font-family: "Verdana", sans-serif;
+	font-weight:normal;
+	font-size:150%;
+	text-decoration:none;
+	text-align:left;
+	line-height:100%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+#pageContent #firstParagraph p {
+	
+	color:black;
+	font-family: "Verdana", sans-serif;
+	font-weight:normal;
+	
+	text-decoration:none;
+	text-align:left;
+	line-height:1.1;
+	margin-left: 0;
+	margin-right:0;
+	background-color:white;
+	box-shadow: -2px -2px 10px 1px rgba(0,0,0,0.1), 2px 2px 10px 1px rgba(0,0,0,0.1);
+	text-align:justify;
+}
+#pageContent #copyrights {
+	z-index:4;
+	position:relative;
+	top:5%;
+	width:70%;
+	height:14%;
+	margin-left:15%;
+	margin-right:15%;
+	
+}
+
+#pageContent #copyrights p {
+	color:black;
+	font-family: "Verdana", sans-serif;
+	font-weight:lighter;
+	font-size:70%;
+	text-decoration:none;
+	text-align:left;
+	line-height:1;
+	margin-left:10%;
+	padding-bottom:0;
+	margin-bottom:0;
+}
+
+#pageContent #copyrights #part1 {
+	position:relative;
+	top:0%;
+	left:0%;
+	height:10%;
+	width:50%;
+}
+
+#pageContent #copyrights #part2 {
+	position:relative;
+	top:-17%;
+	left:50%;
+	height:10%;
+	width:50%;
+}
+
+
+

@@ -1,0 +1,171 @@
+content {
+	z-index:100;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: fixed;
+	top:50%;
+	padding:0;
+	margin:0;
+}
+
+#hidding_background {
+	z-index:101;
+	position:fixed;
+	background-color:rgba(0,0,0,0.5);
+	top:0;
+	left:0;
+	width:0%;
+	height:100%;
+	opacity:0;
+	
+	-webkit-transition: opacity 0.5s, visibility 0s 0.5s;
+	transition: opacity 0.5s, visibility 0s 0.5s;
+}
+
+.lampe:hover ~ #hidding_background {
+	width:100%;
+	opacity:1;
+}
+.menu:hover ~ #hidding_background {
+	width:100%;
+	opacity:1;
+}
+
+.lampe{
+	z-index:103;
+    height: 70px;
+    width: 70px;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    background-image: url("../images/genie.png");
+    background-repeat: no-repeat;
+    background-size: 60%;
+    background-position: center;
+    background-color:white;
+	border:2px solid black;
+	
+	-webkit-transition: opacity 2s;
+	transition: opacity 2s;
+}
+
+.lampe2{
+	z-index:102;
+    height: 70px;
+    width: 70px;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    background-image: url('../images/genie.png');
+    background-repeat: no-repeat;
+    background-size: 60%;
+    background-position: center;
+    background-color: rgba(255,212,39,1);
+    margin: 0px;
+    padding: 0px;
+    
+    display: flex;
+    align-items: center;    
+    position: absolute;
+    left: 0px;
+    border:2px solid black;
+    
+    -webkit-transition: left 0.6s, opacity 15s;
+    transition: left 0.6s, opacity 15s;
+}
+
+.menu{
+	z-index:103;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    width: 200px;
+    height: 700%;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: center;
+    
+    position: absolute;
+    left: -200px;
+    
+    background-color:rgba(245,245,245,1) ;
+    
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    
+    -webkit-transition: left 0.5s; /* Safari */
+    transition: left 0.5s;
+    top: auto;
+    
+   /* -webkit-transition: opacity 0.1s; /* Safari */
+   /* transition: opacity 0.1s;*/
+    
+
+}
+content li{
+	z-index:102;
+    border: 0px;
+    height: 10%;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
+}
+
+content li:hover{
+    background-color:rgba(255,212,39,1);
+    cursor: default;
+    cursor: pointer;
+}
+
+
+.lampe:hover + .menu, .menu:hover{
+    left: 0px;
+	box-shadow: -2px -2px 10px 5px rgba(255,212,39,0.7), 2px 2px 10px 5px rgba(255,212,39,0.7);	
+}
+.menu:hover + .lampe2{
+    display: flex;
+    align-items: center;    
+    position: absolute;
+    left: 200px;
+}
+
+.lienMenu{
+	z-index:102;
+    text-decoration: none;
+    color: black;
+    font-family: 'Nunito', sans-serif;
+}
+
+.lampe img, .lampe2 img {
+	width:100%;
+}
+
+.menu:hover ~ .lampe, .lampe2:hover ~ .lampe {
+	opacity:0;
+}
+
+#first_c {
+	background-color:rgba(255,212,39,1);
+    background-image: radial-gradient(transparent, rgba(0,0,0,0.1));
+}
+
+#first_c:hover {
+    background-image: radial-gradient(transparent, rgba(0,0,0,0.01));
+}
+
+#first_c:active {
+    box-shadow: inset -2px -2px 3px rgba(0,0,0,0.6), inset 2px 2px 3px rgba(0,0,0,0.6);
+}
+
+
+
+
+
+
+
+
+

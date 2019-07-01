@@ -1,57 +1,261 @@
-#pageContent {
-	z-index:-1;
+@media screen and (orientation: portrait) {
+	
+	#staticMenu div {
+		margin-top:5%;
+		width:45%;
+		height:22%;
+	}
+	
+	#staticMenu .vie_sultant {top:6%;left:2.5%;}
+	#staticMenu .arriv_agrabah {top:6%;left:52%;}
+	#staticMenu .ton_palais {top:32%;left:2.5%;}
+	#staticMenu .carte {top:32%;left:52%;}
+	#staticMenu .lexique {top:59%;left:2.5%;}
+	#staticMenu .to_do {top:59%;left:52%;}
+	
+	#wei_section #weiButton {
+		top:5%;
+		height:40%;
+		width:60%;
+		margin-left:20%;
+		margin-right:20%;
+		font-size: 3vw;
+	}
+	
+	#illustration {
+		position:absolute;
+		top:116%;
+		left:0%;
+		width:100%;
+		height:45%;
+		box-shadow:2px -2px 5px 2px rgba(0,0,0,0.2);
+		overflow:hidden;
+		-webkit-transition-duration: 0.4s;
+		transition-duration: 0.4s;
+	}
+
+	#illustration #al {
+		width:100%;
+		max-width:100%;
+	}
+	
+	#first_paragraph {
+		top:160%;
+		height:auto;
+	}
+	
+}
+
+@media screen and (orientation: landscape) {
+	
+	#staticMenu div {
+		margin-top:2%;
+		width:20%;
+		height:40%;
+	}
+
+	#staticMenu .vie_sultant {top:0%;left:17%;}
+	#staticMenu .arriv_agrabah {top:0%;left:39%;}
+	#staticMenu .ton_palais {top:0%;left:61%;}
+	#staticMenu .carte {top:46%;left:17%;}
+	#staticMenu .lexique {top:46%;left:39%;}
+	#staticMenu .to_do {top:46%;left:61%;}
+	
+	#wei_section #weiButton {
+		top:-3%;
+		height:50%;
+		width:30%;
+		margin-left:35%;
+		margin-right:35%;
+		font-size: 2vw;		
+	}
+	
+	#illustration {
+		position:absolute;
+		top:130%;
+		left:0%;
+		width:100%;
+		height:45%;
+		box-shadow:2px -2px 5px 2px rgba(0,0,0,0.2);
+		overflow:hidden;
+		-webkit-transition-duration: 0.4s;
+		transition-duration: 0.4s;
+	}
+
+	#illustration #al {
+		position:relative;
+		top:-50%;
+		width:100%;
+	}
+	
+	#first_paragraph {
+		top:165%;
+		height:auto;
+	}
+	
+}
+
+#language_selecter {
+	position:absolute;
+	top:22%;
+	left:0%;
+	margin-top:var(--topBandSize);
+	width:100%;
+	height:10%;
+	background-color:white;
+	border-bottom:1px solid rgba(0,0,0,0.1);
+}
+
+#language_selecter #french_flag {
+	position:relative;
+	margin-left:10%;
+	top:15%;
+	height:70%;
+	opacity:1;
+	box-shadow:-2px -2px 5px 5px rgba(0,0,0,0.2), 2px 2px 5px 5px rgba(0,0,0,0.2);
+}
+#language_selecter #english_flag {
+	position:relative;
+	margin-left:20px;
+	top:15%;
+	height:70%;
+	opacity:0.5;
+}
+
+#staticMenu {
+	position:absolute;
+	top:32%;
+	left:0%;
+	margin-top:var(--topBandSize);
+	width:100%;
+	height:55%;
+	background-color:rgba(0,0,0,0.05);
+}
+
+#staticMenu div {
+	position:absolute;
+	background-color:white;
+	border:2px solid rgba(0,0,0,0.1);
+	box-shadow: -2px -2px 5px 1px rgba(0,0,0,0.1), 2px 2px 5px 1px rgba(0,0,0,0.1);
+	-webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+#staticMenu p {
+	position:relative;
+	color:rgba(0,0,0,0.8);
+	font-family: "Verdana", sans-serif;
+	font-weight:normal;
+	text-align:center;
+	top:10%;
+	font-size:1.5vh;
+}
+
+#staticMenu .buttonIcon {
+	position:relative;
+	width:15%;
+	margin-left:42.5%;
+	margin-right:42.5%;
+	top:10%;
+	opacity:0.5;
+	-webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+#wei_section {
 	position:absolute;
 	width:100%;
-	height:50%;
-	top:23%;
+	background-color:white;
 	margin-top:var(--topBandSize);
-	background-color:transparent;
-	padding:0;
+	top:87%;
+	left:0%;
+	height:23%;
+	-webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+#wei_section p {
+	position:relative;
+	color:black;
+	font-family: "Verdana";
+	font-size:0.7em;
+	margin-left:8%;
+	margin-right:8%;
+	text-align:center;
+}
+
+#wei_section #weiButton {
+	position:relative;
 	left:0;
+    line-height: 2vw;
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 1px #000;
+	background-color:rgba(255,212,39,1);
+    background-image: radial-gradient(transparent, rgba(0,0,0,0.1));
+	-webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
 }
 
+#first_paragraph {
+	position:absolute;
+	width:100%;
+	left:0;
+	background-color:rgba(0,0,0,0.1);
+	-webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
 
-#pageContent h1 {
+#first_paragraph section {
 	position:relative;
-	color:black;
-	font-family: "Verdana", sans-serif;
-	font-weight:normal;
-	font-size:7vw;
-	text-decoration:none;
-	text-align:left;
-	line-height:1;
-	margin-left:5%;
+	width:100%;
+	left:0;
+	background-color:white;
+	font-family: "Verdana";
+	-webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
 }
 
+#first_paragraph #title {
+	text-align:center;
+	font-size:5vw;
+}
 
-#pageContent p {
+#first_paragraph #button_holder {
 	position:relative;
-	color:black;
-	font-family: "Verdana", sans-serif;
-	font-weight:normal;
-	font-size:4vw;
-	text-decoration:none;
-	text-align:left;
-	line-height:1;
-	margin-left:5%;
+	width:100%;
+	height:35px;
 }
 
-
-#pageContent #abu {
-	width:30%;
-}
-#pageContent .holder {
-	margin-left:29%;
-}
-
-#pageContent .signature p {
+#first_paragraph #button_holder button {
 	position:relative;
-	color:black;
-	font-family: "Verdana", sans-serif;
-	font-weight:normal;
-	font-size:2.5vw;
-	text-decoration:none;
-	text-align:right;
-	line-height:1;
-	margin-right:5%;
+	float:left;
+	margin:0.1%;
+	width:33%;
+	height:100%;
+	line-height: 1;
+    font-size: 3vw;
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 1px #000;
+	background-color:rgba(255,212,39,1);
+    background-image: radial-gradient(transparent, rgba(0,0,0,0.1));
+}
+#first_paragraph #button_holder button:active {
+    box-shadow: inset -2px -2px 3px rgba(0,0,0,0.6), inset 2px 2px 3px rgba(0,0,0,0.6);
+}
+
+#first_paragraph .to_do_list {
+	position:relative;
+	margin-left:25%;
+	margin-right:25%;
+	width:50%;
+	height:auto;
+	line-height: 1;
+    font-size: 7vw;
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 1px #000;
+	background-color:rgba(255,212,39,1);
+    background-image: radial-gradient(transparent, rgba(0,0,0,0.1));
 }
