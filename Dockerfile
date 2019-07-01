@@ -1,4 +1,11 @@
-FROM trafex/alpine-nginx-php7
-EXPOSE 8080
-COPY . /var/www/html
-CMD /usr/bin/supervisord -c /etc/supervisor/conf.d/supervisord.conf
+FROM php as staticmaker
+WORKDIR /build
+COPY . /build
+RUN /build/staticify.sh
+
+
+FROM nginx
+COPY default.conf /etc/nginx/conf.d/default.conf
+COPY mime.types /etc/nginx/mime.types
+
+COPY --from=staticmaker /build/html-static/ /usr/share/nginx/html
