@@ -1,0 +1,49 @@
+#pageContent #downPageSeparation {
+	position:relative;
+	width:90%;
+	height:1px;
+	margin-left:5%;
+	margin-right:5%;
+	margin-top:5%;	
+	top:84%;
+	background-color:black;
+}
+
+#pageContent #copyrights {
+	z-index:4;
+	position:relative;
+	width:70%;
+	height:200px;
+	margin-left:15%;
+	margin-right:15%;
+	float:right;
+}
+
+#pageContent #copyrights p {
+	color:black;
+	font-family: "Verdana", sans-serif;
+	font-weight:lighter;
+	font-size:70%;
+	text-decoration:none;
+	text-align:left;
+	line-height:1;
+	margin-left:10%;
+	padding-bottom:0;
+	margin-bottom:0;
+}
+
+#pageContent #copyrights #part1 {
+	position:relative;	
+	margin-top:2%;
+	top:0%;
+	left:0%;
+	width:50%;
+}
+
+#pageContent #copyrights #part2 {
+	position:relative;
+	margin-top:2%;
+	width:50%;
+	top:-78%;
+	float:right;
+}

@@ -1,0 +1,26 @@
+#pageContent {
+	z-index:-1;
+	position:absolute;
+	padding:0;
+	top:21%;
+	margin-top:45px;
+	left:0;
+	width:100%;
+	height:auto;
+	background-color:rgba(0,0,0,0.07);
+}
+
+#pageContent section {
+	background-color:white;
+	margin-left:0%;
+	margin-right:0%;
+	width:auto;
+	color:black;
+	position:relative;
+	font-family: "Verdana", sans-serif;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:left;
+	line-height:1.2;
+	box-shadow: -2px -2px 7px 1px rgba(0,0,0,0.4), 2px 2px 7px 1px rgba(0,0,0,0.4);
+}

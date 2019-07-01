@@ -1,0 +1,125 @@
+@media screen and (orientation: portrait) {
+	#pageContent section {
+		padding:3%;
+		font-size:4vw;
+	}
+	
+	#pageContent #firstParagraph h3 {
+		font-size:4.5vw;
+	}
+}
+
+@media screen and (orientation: landscape) {
+	#pageContent section {
+		padding:6%;
+		font-size:4vh;
+	}
+	
+	#pageContent #firstParagraph h3 {
+		font-size:4.5vh;
+	}
+}
+
+#pageContent {
+	z-index:-1;
+	position:absolute;
+	padding:0;
+	top:21%;
+	margin-top:45px;
+	left:0;
+	width:100%;
+	height:auto;
+	background-color:rgba(0,0,0,0.07);
+}
+
+#pageContent h1 {
+	margin-left:10%;
+	color:black;
+	font-family: "Verdana", sans-serif;
+	font-weight:bold;
+	font-size:300%;
+	text-decoration:none;
+	text-align:left;
+	line-height:1;
+}
+
+#pageContent .subTitle {
+	margin-left:5%;
+	margin-right:5%;
+	color:black;
+	font-family: "Verdana", sans-serif;
+	font-weight:normal;
+	font-size:100%;
+	text-decoration:none;
+	text-align:left;
+	line-height:1.1;
+}
+
+#pageContent h2 {
+	margin-left:5%;
+	margin-right:5%;
+	padding-bottom:2%;
+	color:black;
+	font-family: "Verdana", sans-serif;
+	font-weight:normal;
+	font-size:7vw;
+	text-decoration:none;
+	text-align:left;
+	line-height:1;
+}
+
+#pageContent section {
+	background-color:white;
+	margin-left:0%;
+	margin-right:0%;
+	width:auto;
+	color:black;
+	position:relative;
+	font-family: "Verdana", sans-serif;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:left;
+	line-height:1.2;
+	box-shadow: -2px -2px 7px 1px rgba(0,0,0,0.4), 2px 2px 7px 1px rgba(0,0,0,0.4);
+}
+
+#pageContent .list {
+	list-style-type: none;
+	position:relative;
+	padding:0;
+	width: 90%;
+	margin-left:5%;
+	border:2px dashed black;
+	text-align:center;
+	line-height:2em;
+}
+
+#pageContent .list li:first-child {
+	margin-left:0;
+	border-bottom: 1px dashed black;
+	background-color:white;
+	font-family: "Verdana", sans-serif;
+	font-weight:lighter;
+	font-size:1em;
+	text-decoration:bold;
+	text-align:center;
+	line-height:1.5;
+	color:rgba(0,0,0,0.9);
+}
+
+#pageContent .list li:nth-child(2) {
+	margin-top:1%;
+}
+#pageContent .list li:last-child {
+	margin-bottom:1%;
+}
+
+#pageContent .list li {
+	margin:0;
+	font-family: "Verdana", sans-serif;
+	font-size:0.8em;
+	font-weight:normal;
+	text-align:left;
+	margin-left:4%;
+}
+
