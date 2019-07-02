@@ -60,7 +60,7 @@
 		</div>
 		<div id ="wei_section">
 			<p id = "timerText"></p>
-			<button id="weiButton" onclick="window.location.href = 'download_content/wei.pdf';">CHOPE TA PLACE POUR LE <b>WEI</b> !</button>
+			<button id="weiButton" onclick="window.location.href = 'download_content/wei.pdf';">CHOPE TA PLACE POUR LE <b>WEI</b> et la <b>VA</b> !</button>
 		</div>
 		<div id = "illustration">
 			<img id = "al" src="images\main\aladdin1.jpg">

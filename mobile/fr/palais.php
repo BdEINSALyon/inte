@@ -55,7 +55,6 @@
 				<li>- Une corde à linge ou un étendoir</li>
 				<li>- Des paniers pour étagères (par exemple le modèle OBSERVATÖR chez IKEA)</li>
 				<li>- Un tapis de bain (même deux ça peut être utile #batA)</li>
-				<li>- Des préservatifs (toujours sortir couvert)</li>
 				<li>- De la lessive, même si tu pourras en acheter à la COOP</li>
 				<li>- Des affaires de nettoyage (balais et pelle, serpillère, javel...)</li>
 			</ul>
@@ -75,6 +74,7 @@
 				<li>- Une guillotine à saucisson pour les plus gourmands</li>
 				<li>- Ta plus grosse sono pour faire trembler tout le bâtiment</li>
 				<li>- Une paire de chaussures spéciale inté, faut être prêt à mettre ses pieds dans la boue</li>
+				<li>- Des préservatifs (toujours sortir couvert)</li>
 			</ul>
 			<br>
 		</div>

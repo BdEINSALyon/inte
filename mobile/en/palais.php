@@ -55,7 +55,6 @@
 				<li>- Washing lines</li>
 				<li>- Shelves basket (the OBSERVATÖR model at ikea) </li>
 				<li>- A bath mat (or even 2 #batA)</li>
-				<li>- Condoms (always be prepared) </li>
 				<li>- Laundry detergent, even if you can buy some at the COOP</li>
 			</ul>
 			<br><br><br>
@@ -71,6 +70,7 @@
 				<li>- A comfy office chair </li>
 				<li>- A beautiful flying carpet </li>
 				<li>- Old shoes for the integration, be ready to get dirty</li>
+				<li>- Condoms (always be prepared) </li>
 			</ul>
 			<br>
 		</div>

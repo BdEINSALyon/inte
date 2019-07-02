@@ -62,12 +62,6 @@
 			<section>
 			&nbsp &nbsp Ce que tu dois répondre si quelqu’un n’accepte pas les mots suivants : carafe, pichet, broc, jar, pot d’eau ou encore pot à eau. 
 			</section>
-			<br><br>
-			<h2>After K-Fêt</h2>
-			<section>
-			&nbsp &nbsp  Vous savez les surnoms c’est surtout des rencontres.
-			</section>
-			<br><br>
 			<h2>Anticonstitutitionnellement</h2>
 			<section>
 			&nbsp &nbsp Trop long à écrire.
@@ -107,7 +101,7 @@
 			<br><br>
 			<h2>Bâtiment C-D</h2>
 			<section id="def_Batc">
-			&nbsp &nbsp Le village d'Astérix, les 2A y dorment et il est plus beau (en plus y'a le droit à l'alcool).
+			&nbsp &nbsp Le village d'Astérix, les 2A y dorment et il est plus beau.
 			</section>
 			<br><br>
 			<h2>Bazoom</h2>
@@ -153,7 +147,7 @@
 			<br><br>
 			<h2>BU</h2>
 			<section id="def_Bu">
-			&nbsp &nbsp La bibliothèque universitaire, pas loin du beurk, elle est toujours remplie pendant les semaines de révisions (ps: en général ceux qui la teste ne la quitte plus)
+			&nbsp &nbsp La bibliothèque universitaire, pas loin du RI, elle est toujours remplie pendant les semaines de révisions (ps: en général ceux qui la teste ne la quitte plus)
 			</section>
 			<br><br>
 			<h2>Budget</h2>
@@ -439,7 +433,7 @@
 			<br><br>
 			<h2>INSA Lyon</h2>
 			<section>
-			&nbsp &nbsp  Les gens sont censés être les plus intelligent...déception
+			&nbsp &nbsp  Les gens sont censés être les plus intelligents...déception
 			</section>
 			<br><br>
 			<h2>INSApeurs-Pompiers</h2>
@@ -756,11 +750,6 @@
 			&nbsp &nbsp Salles de TP de la fac de chimie.
 			</section>
 			<br><br>
-			<h2>Traquenard</h2>
-			<section>
-			&nbsp &nbsp Salles de TP de la fac de chimie.
-			</section>
-			<br><br>
 			<h2>Triple K</h2>
 			<section>
 			&nbsp &nbsp Anciennement appelé “eau”
@@ -801,11 +790,6 @@
 			<h2>Villeurbanne</h2>
 			<section>
 			&nbsp &nbsp C’était marqué Lyon sur la plaquette.
-			</section>
-			<br><br>
-			<h2>Voiture</h2>
-			<section>
-			&nbsp &nbsp Combustible employé aux alentours du bâtiment B.
 			</section>
 			<br><br>
 		<h3>Ca commence par W...</h3>
