@@ -100,7 +100,7 @@
 			</section>
 			<br>
 			<div id="button_holder">
-				<button onclick="window.location.href = 'download_content/wei.pdf';" class="quick_button">LE WEI</button><button onclick="window.location.href = 'download_content/QUESTIONNAIRE_INTE.pdf';" class="quick_button">LE QUESTIONNAIRE</button><button onclick="window.location.href = 'https://www.facebook.com/groups/2340380032891518/';" class="quick_button">LA PAGE FACEBOOK</button>
+				<button onclick="window.location.href = 'download_content/wei.pdf';" class="quick_button">LE WEI ET LA VA</button><button onclick="window.location.href = 'download_content/QUESTIONNAIRE_INTE.pdf';" class="quick_button">LE QUESTIONNAIRE</button><button onclick="window.location.href = 'https://www.facebook.com/groups/2340380032891518/';" class="quick_button">LA PAGE FACEBOOK</button>
 			</div>
 			<br>
 			<section>
@@ -120,7 +120,7 @@
 			<section>
 				&nbsp &nbsp J’en profite pour faire une petite dédi à la Doua gang, aux astronautes, au 95 et à mon futur bizuth et ma future bizuthe, dormez bien avant d’arriver, vous en aurez besoin (j’espère vous êtes chauds).
 
-				En tout cas, je t’assure que t’as fait le bon choix en rejoignant l’INSA parce que tu t’apprête à vivre les meilleures années de ta vie et ça commencera dès la première semaine avec l’inté qu’on t’a préparé.
+				En tout cas, je t’assure que t’as fait le bon choix en rejoignant l’INSA parce que tu t’apprêtes à vivre les meilleures années de ta vie et ça commencera dès la première semaine avec l’inté qu’on t’a préparée.
 				<br><br>
 				Alors repose toi bien parce que ton arrivée va être mouvementée.
 				<br>

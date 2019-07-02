@@ -32,7 +32,7 @@
 				<div id = "content">
 					<div id = "text1">
 						<h1 class = "title3">Tes cours à l'insa</h1>
-						<p>&nbsp &nbsp Eh oui mon cher Aladdin, l’INSA ce n’est pas qu’une superbe inté organisée par des CDPs géniaux (au boulard démesuré) ou tu rencontres ton meilleur pote Abu et que tu choppes une Jasmine ou un Aladdin random. Ce sont aussi des cours qui sont divisés en plusieurs catégories.</p>
+						<p>&nbsp &nbsp Eh oui mon cher Aladdin, l’INSA ce n’est pas qu’une superbe inté organisée par des CDPs géniaux (au boulard démesuré) où tu rencontres ton meilleur pote Abu et que tu choppes une Jasmine ou un Aladdin random. Ce sont aussi des cours qui sont divisés en plusieurs catégories.</p>
 						<br><br>
 						<h2 class = "title2">Les amphis</h2>
 						<section>
