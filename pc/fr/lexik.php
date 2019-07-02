@@ -154,7 +154,7 @@
 			<br><br>
 			<h2>BU</h2>
 			<section id="def_Bu">
-			&nbsp &nbsp La bibliothèque universitaire, pas loin du RI, elle est toujours remplie pendant les semaines de révisions (ps: en général ceux qui la teste ne la quitte plus)
+			&nbsp &nbsp La bibliothèque universitaire, pas loin du RI, elle est toujours remplie pendant les semaines de révisions (ps: en général ceux qui la testent ne la quitte plus)
 			</section>
 			<br><br>
 			<h2>Budget</h2>
@@ -261,7 +261,7 @@
 			<br><br>
 			<h2>CoWEI</h2>
 			<section id="def_Cowei">
-			&nbsp &nbsp Ceux qui t'organise le week-end d'inté à la plage et tout.
+			&nbsp &nbsp Ceux qui t'organisent le week-end d'inté à la plage et tout.
 			</section>
 			<br><br>
 			<h2>Cristallographie</h2>
