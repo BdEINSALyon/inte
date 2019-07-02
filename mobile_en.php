@@ -96,7 +96,7 @@
 			</section>
 			<br>
 			<div id="button_holder">
-				<button onclick="window.location.href = 'download_content/wei.pdf';" class="quick_button">THE WEI</button><button onclick="window.location.href = 'download_content/QUESTIONNAIRE_INTE.pdf';" class="quick_button">THE SURVEY</button><button onclick="window.location.href = 'https://www.facebook.com/groups/2340380032891518/';" class="quick_button">FACEBOOK GROUP</button>
+				<button onclick="window.location.href = 'download_content/wei.pdf';" class="quick_button">THE WEI and VA</button><button onclick="window.location.href = 'download_content/QUESTIONNAIRE_INTE.pdf';" class="quick_button">THE SURVEY</button><button onclick="window.location.href = 'https://www.facebook.com/groups/2340380032891518/';" class="quick_button">FACEBOOK GROUP</button>
 			</div>
 			<br>
 			<section>

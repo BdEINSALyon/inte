@@ -90,7 +90,7 @@
 					N’oublie pas de remplir le questionnaire et de l’envoyer avant la date limite pour qu’on puisse t’attribuer une marraine/un parrain ainsi que de t’inscrire au WEI, les places sont limitées et tu regretterais de pas y aller.
 				</div>
 				<div class="button_holder">
-					<button onclick="window.open('download_content/wei.pdf');" class="quick_button">LE WEI</button><button onclick="window.open('download_content/QUESTIONNAIRE_INTE.pdf');" class="quick_button">LE QUESTIONNAIRE</button><button onclick="window.open('https://www.facebook.com/groups/2340380032891518/');" class="quick_button">LA PAGE FACEBOOK</button>
+					<button onclick="window.open('download_content/wei.pdf');" class="quick_button">LE WEI et la VA</button><button onclick="window.open('download_content/QUESTIONNAIRE_INTE.pdf');" class="quick_button">LE QUESTIONNAIRE</button><button onclick="window.open('https://www.facebook.com/groups/2340380032891518/');" class="quick_button">LA PAGE FACEBOOK</button>
 				</div>
 			</section>
 
@@ -138,7 +138,7 @@
 					<img src="images\main\aladdin1.jpg" style="width:150%;margin-top:-15%;margin-left:-50%;">
 				</div>
 				<section class="text_left">
-					&nbsp &nbsp En tout cas, je t’assure que t’as fait le bon choix en rejoignant l’INSA parce que tu t’apprête à vivre les meilleures années de ta vie et ça commencera dès la première semaine avec l’inté qu’on t’a préparée.
+					&nbsp &nbsp En tout cas, je t’assure que t’as fait le bon choix en rejoignant l’INSA parce que tu t’apprêtes à vivre les meilleures années de ta vie et ça commencera dès la première semaine avec l’inté qu’on t’a préparée.
 				</section>
 				<br>
 				<section class="text_left">

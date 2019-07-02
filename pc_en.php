@@ -90,7 +90,7 @@
 					Don't forget to answer the survey (so that we can find you a great big brother/sister) and to register for the integration week-end (WEI) and community life (VA).
 				</div>
 				<div class="button_holder">
-					<button onclick="window.open('download_content/wei.pdf');" class="quick_button">THE WEI</button><button onclick="window.open('download_content/QUESTIONNAIRE_INTE.pdf');" class="quick_button">THE SURVEY</button><button onclick="window.open('https://www.facebook.com/groups/2340380032891518/');" class="quick_button">FACEBOOK GROUP</button>
+					<button onclick="window.open('download_content/wei.pdf');" class="quick_button">THE WEI AND VA</button><button onclick="window.open('download_content/QUESTIONNAIRE_INTE.pdf');" class="quick_button">THE SURVEY</button><button onclick="window.open('https://www.facebook.com/groups/2340380032891518/');" class="quick_button">FACEBOOK GROUP</button>
 				</div>
 			</section>
 			

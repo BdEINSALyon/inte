@@ -53,7 +53,7 @@ html, body {
 #quick_definition #def #parent {
 	background-color:white;
 	border-radius:5px;
-	box-shadow:-2px -2px 5px 5px rgba(255,212,39,0.5), 2px 2px 5px 5px rgba(255,212,39,0.5);
+	box-shadow:-2px -2px 5px 5px rgba(136, 133, 120, 0.5), 2px 2px 5px 5px rgba(255,212,39,0.5);
 }
 
 #quick_definition #def p {
