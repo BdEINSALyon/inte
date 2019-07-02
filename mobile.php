@@ -60,7 +60,7 @@
 		</div>
 		<div id ="wei_section">
 			<p id = "timerText"></p>
-			<button id="weiButton" onclick="window.location.href = 'download_content/wei.pdf';">CHOPE TA PLACE POUR LE <b>WEI</b> !</button>
+			<button id="weiButton" onclick="window.location.href = 'download_content/wei.pdf';">CHOPE TA PLACE POUR LE <b>WEI</b> et la <b>VA</b> !</button>
 		</div>
 		<div id = "illustration">
 			<img id = "al" src="images\main\aladdin1.jpg">
@@ -131,26 +131,6 @@
 				Tcho bye cimer l’équipe
 				<br><br>
 				Louis, resp poly charismatique 2019.
-			</section>
-			<br><br>
-			<h2>Le mot aux parents</h2>
-			<section>
-				Bonjour Bonjour,
-				<br><br>
-				Madame, Monsieur,
-				<br><br>
-				&nbsp &nbsp Comme vous le savez, votre enfant s’apprête à rejoindre l’INSA Lyon et donc quitter le cocon familial. Après tant d’années, il va devoir partir loin de chez lui, découvrir une nouvelle ville, une nouvelle vie. Ses habitudes vont être bouleversées, il va être amené à s’adapter à un nouveau rythme de vie. Mais ne vous inquiétez pas, nous sommes là pour le guider dans ce tournant décisif. Nous, le comité de parrainage et tous les étudiants de l’INSA, serons présents pour l’accompagner à chacun de ses pas. Toutes les questions que vous vous posez trouveront leur réponse sur ce site.
-				<br>
-				&nbsp &nbsp Nous avons reçu des formations spécialisées afin que cette semaine d’intégration se déroule dans les meilleures des conditions, et assurer sa sécurité lors de son intégration.
-			</section>
-			<br>
-			<section>
-				&nbsp &nbsp A son arrivée, il aura une famille (qui ne vous remplacera pas ne vous inquiétez pas), un groupe d’Asterix et un merveilleux parrain ou une merveilleuse marraine qui le guideront vers la réussite et l’accomplissement de leur vie étudiante tout au long de l’année.
-				<br>
-				&nbsp &nbsp Nous serons surtout là pendant l’intégration qui a pour but de permettre au mieux à votre enfant de trouver ses marques et de se sentir entouré dès son arrivée. Des activités, des repas de famille, des veillées seront organisés pour permettre à nos futurs bizuths (expression affective représentant les premières années) de rencontrer les autres Aladdins de l’INSA et leur nouvelle école. 
-				<br>
-				&nbsp &nbsp Pour conclure, chers parents, vous pouvez envoyer par la poste votre enfant en toute tranquillité. Malgré le saut dans l’inconnu qu'il s’apprête à réaliser, nous serons là pour l’assister et tout faire pour qu’il se sente bien dans notre incroyable école.
-				<br>
 			</section>
 			<br><br>
 		</div>

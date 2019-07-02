@@ -107,13 +107,21 @@
 				
 				<h2>Le WEI: </h2>
 				<img class="image2" src = "../../images/arriv_agrabah/wei.png">
-				<section id="paraf1"> &nbsp &nbsp &nbsp Voici enfin l’étape finale de l’inté et c’est du TRES TRES LOURD ! Mais ce sont nos chers, précieux et adorés <a class="def_Link" href="javascript:definition('def_Pc');">CoWEI</a> qui vont te présenter cet
+				<section id="paraf1"> &nbsp &nbsp &nbsp Voici enfin l’étape finale de l’inté et c’est du TRES TRES LOURD ! Organisé par les <a class="def_Link" href="javascript:definition('def_Pc');">CoWEI</a>, cela fait un an qu'ils préparent cet
 					événement de type ENORME. Tout ce qu’on peut te dire c’est qu’il n’est à manquer sous aucun prétexte ! On te l’assure mon cher Aladdin, tu n’es 
-					vraiment pas prêt pour ce que tu vas vivre (tu verras, après avoir vécu ce week-end, tu les kifferas au moins autant qu’Aladdin kiffe Jasmine.
+					vraiment pas prêt pour ce que tu vas vivre (tu verras, après avoir vécu ce week-end, tu les kifferas au moins autant qu’Aladdin kiffe Jasmine).
 					Je t’invite à aller regarder les aftermovies des années précédentes (celui de l’année dernière : <a href="https://www.youtube.com/watch?v=zgmukGFL0DU"> WEI 2018 - Aftermovie </a> ) 
 					pour avoir un aperçu de ce qui t’attends, et tu comprendras vite que c’est un évènement à ne
 					louper sous AUCUN prétexte ! Mais dépêche-toi, les places sont limitées !
+					<br><br>
+					Réserve dès maintenant ton week-end du 21 et 22 SEPTEMBRE ! Où ça se passe ? Cette année encore, le WEI a lieu au Napoléon, un camping 5 étoiles à Vias Plage qui 
+					a l’habitude de nous accueillir et qui nous fait entièrement confiance d’année en année. Vous serez logés dans des bungalows avec 
+					lits et salle de bain et nourris par le traiteur du camping. Mais le WEI, c’est quoi ? C’est 460 primo-entrants et 60 organisateurs 
+					qui partent en bus pour la plage pour encore plus de jeux, de chill, de rencontres, et de clubbing ! Toutes les activités sont 
+					supervisées par l’équipe CoWEI. Logement, repas, activités, trajets, 
+					sécurité, etc. ON S’OCCUPE DE TOUT !
 				</section>
+				<img class = "image1" src = "../../images/arriv_agrabah/log-wei-rose.png">
 			<br>
 			<!--<?php include("copryrights.php");?>-->	
 		</div>

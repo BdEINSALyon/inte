@@ -92,7 +92,6 @@
 			&nbsp &nbsp Astérix était le thème de l'intégration 2018 (les "astérixs" sont donc des deuxièmes années).
 			</section>
 			<br><br>
-			
 		<h3>Ca commence par B...</a>
 			<h2>Balle-neuve</h2>
 			<section>
@@ -111,12 +110,13 @@
 			<br><br>
 			<h2>Bâtiment C-D</h2>
 			<section id="def_Batc">
-			&nbsp &nbsp Le village d'Astérix, les 2A y dorment et il est plus beau (en plus y'a le droit à l'alcool).
+			&nbsp &nbsp Le village d'Astérix, les 2A y dorment et il est plus beau.
 			</section>
 			<br><br>
 			<h2>Bazoom</h2>
 			<section>
 			&nbsp &nbsp  C’est comme ça qu’on savoure la bière. 
+			</section>
 			<h2>Bérénice</h2>
 			<section>
 			&nbsp &nbsp Resp com sous tension.
@@ -440,7 +440,7 @@
 			<br><br>
 			<h2>INSA Lyon</h2>
 			<section>
-			&nbsp &nbsp  Les gens sont censés être les plus intelligent...déception
+			&nbsp &nbsp  Les gens sont censés être les plus intelligents...déception
 			</section>
 			<br><br>
 			<h2>INSApeurs-Pompiers</h2>
@@ -757,11 +757,6 @@
 			&nbsp &nbsp Salles de TP de la fac de chimie.
 			</section>
 			<br><br>
-			<h2>Traquenard</h2>
-			<section>
-			&nbsp &nbsp Salles de TP de la fac de chimie.
-			</section>
-			<br><br>
 			<h2>Triple K</h2>
 			<section>
 			&nbsp &nbsp Anciennement appelé “eau”
@@ -802,11 +797,6 @@
 			<h2>Villeurbanne</h2>
 			<section>
 			&nbsp &nbsp C’était marqué Lyon sur la plaquette.
-			</section>
-			<br><br>
-			<h2>Voiture</h2>
-			<section>
-			&nbsp &nbsp Combustible employé aux alentours du bâtiment B.
 			</section>
 			<br><br>
 		<h3>Ca commence par W...</h3>

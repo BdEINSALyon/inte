@@ -32,7 +32,7 @@
 			<div id="countdown">
 				<p id = "timerText"></p>
 			</div>
-			<button id="weiButton" onclick="window.open('download_content/wei.pdf');">CHOPE TA PLACE POUR LE <b>WEI/VA</b> !</button>
+			<button id="weiButton" onclick="window.open('download_content/wei.pdf');">CHOPE TA PLACE POUR LE <b>WEI</b> et la <b>VA</b> !</button>
 			<div class = "separation"></div>
 			<div id ="link_holder">
 				<a href="https://www.youtube.com/user/INSALyonBdE"><img id="ytb" src = "images\global\youtube_icon.png"></a>
