@@ -43,7 +43,7 @@
 			<section>
 			&nbsp &nbsp Sign up for the WEI, and at the same time you can buy your VA card (don't forget to send the check, you want to be sure there is room saved for you!)
 			</section><br>
-			<button onclick="window.location.href = '../../download_content/wei.pdf';" class="quick_button">LE WEI</button>
+			<button onclick="window.location.href = '../../download_content/wei.pdf';" class="quick_button">THE WEI AND VA</button>
 			<br><br>
 			<h2>Once you arrive on campus... </h2>
 			<section>

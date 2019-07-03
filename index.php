@@ -93,7 +93,7 @@
 					<button onclick="window.open('download_content/wei.pdf');" class="quick_button">LE WEI et la VA</button><button onclick="window.open('download_content/QUESTIONNAIRE_INTE.pdf');" class="quick_button">LE QUESTIONNAIRE</button><button onclick="window.open('https://www.facebook.com/groups/2340380032891518/');" class="quick_button">LA PAGE FACEBOOK</button>
 				</div>
 			</section>
-
+			<br>
 			<section class="multiple_button">
 				<div class="text2">
 					 Petit conseil : la lampe à gauche de l'écran te permettra de parcourir le site plus facilement !
