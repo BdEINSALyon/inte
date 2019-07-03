@@ -42,11 +42,6 @@
 			<br><br>
 		<h3>Ça commence par A...</h3>
 			<br>
-			<h2>After K-Fêt</h2>
-			<section>
-			&nbsp &nbsp  Vous savez les surnoms c’est surtout des rencontres.
-			</section>
-			<br><br>
 			<h2>Anglais</h2>
 			<section>
 			&nbsp &nbsp Groupe 6.
