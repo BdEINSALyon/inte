@@ -108,10 +108,6 @@
 			&nbsp &nbsp Le village d'Astérix, les 2A y dorment et il est plus beau.
 			</section>
 			<br><br>
-			<h2>Bazoom</h2>
-			<section>
-			&nbsp &nbsp  C’est comme ça qu’on savoure la bière. 
-			</section>
 			<h2>Bérénice</h2>
 			<section>
 			&nbsp &nbsp Resp com sous tension.
@@ -164,11 +160,6 @@
 			<br><br>
 		<h3>Ca commence par C...</a>	
 			<br>
-			<h2>CA</h2>
-			<section>
-			&nbsp &nbsp Censure active. Conseil d’administration pour les intimes.
-			</section>
-			<br><br>
 			<h2>Caddie</h2>
 			<section>
 			&nbsp &nbsp Le seul taxi qui en vaut la peine.
@@ -197,16 +188,6 @@
 			<h2>CdP</h2>
 			<section>
 			&nbsp &nbsp Boulard.
-			</section>
-			<br><br>
-			<h2>CdPasElus</h2>
-			<section>
-			&nbsp &nbsp On les aime quand même.
-			</section>
-			<br><br>
-			<h2>Chauve</h2>
-			<section>
-			&nbsp &nbsp Voir Maurincomme.
 			</section>
 			<br><br>
 			<h2>Chouille</h2>
@@ -246,7 +227,7 @@
 			<br><br>
 			<h2>Coop</h2>
 			<section>
-			&nbsp &nbsp Trace-cercle et préservatifs, what else ? 
+			&nbsp &nbsp Épicerie étudiante du BdE, c'est pas loin et pas cher.
 			</section>
 			<br><br>
 			<h2>CSS</h2>
@@ -273,11 +254,6 @@
 			<h2>Dodo</h2>
 			<section>
 			&nbsp &nbsp Métro, boulot... Également un animal disparu (askip c t bon).
-			</section>
-			<br><br>
-			<h2>DDR</h2>
-			<section>
-			&nbsp &nbsp Te concerne seulement si c’est toi qui paye la salle d’et.
 			</section>
 			<br><br>
 			<h2>Détecteur de fumée</h2>
@@ -364,11 +340,6 @@
 			<br><br>
 		<h3>Ca commence par G...</h3>
 			<br>
-			<h2>Le point...</h2>
-			<section>
-			&nbsp &nbsp [Censure du CA]. 
-			</section>
-			<br><br>
 			<h2>Gabbro</h2>
 			<section>
 			&nbsp &nbsp dédi aux spées SVT. 
@@ -403,11 +374,6 @@
 			<br><br>
 		<h3>Ca commence par I...</h3>
 			<br>
-			<h2>IUT</h2>
-			<section id="def_Iut">
-			&nbsp &nbsp Ton école l'année pro.
-			</section>
-			<br><br>
 			<h2>IE</h2>
 			<section id="def_Ie">
 			&nbsp &nbsp Une tous les vendredi aprem, c'est les interros qui te feront louper ton année.
@@ -450,11 +416,6 @@
 			<br><br>
 		<h3>Ca commence par J...</h3>
 			<br>
-			<h2>Jalousie</h2>
-			<section>
-			&nbsp &nbsp Voir “Tarif barman”
-			</section>
-			<br><br>
 			<h2>Jasmine</h2>
 			<section>
 			&nbsp &nbsp TTT.
@@ -479,7 +440,7 @@
 			<br>
 			<h2>Karna</h2>
 			<section>
-			&nbsp &nbsp J’aime les dreads. 
+			&nbsp &nbsp Asso humanitaire et festival sur le campus.
 			</section>
 			<br><br>
 			<h2>K-fet</h2>
@@ -530,11 +491,6 @@
 			</section>
 			<br><br>
 		<h3>Ca commence par M...</h3>
-			<h2>Majeur</h2>
-			<section>
-			&nbsp &nbsp Tant que y’a pelouse y’a match
-			</section>
-			<br><br>
 			<h2>Malibu</h2>
 			<section>
 			&nbsp &nbsp On n'a jamais vu un sol de turne si propre
@@ -545,11 +501,6 @@
 			&nbsp &nbsp  C’est votre ultime bafouille ?
 			</section>
 			<br><br>
-			<h2>Maurincomme</h2>
-			<section>
-			&nbsp &nbsp Ton nouveau papa.
-			</section>
-			<br><br>
 			<h2>Mineur</h2>
 			<section>
 			&nbsp &nbsp Frustré au WEI. 
@@ -558,11 +509,6 @@
 			<h2>Mister Duck</h2>
 			<section>
 			&nbsp &nbsp Voir “Leo Simonet”.
-			</section>
-			<br><br>
-			<h2>Molle</h2>
-			<section>
-			&nbsp &nbsp C’est pas comme à la K-Fêt, je t’en souhaite pas des demies.
 			</section>
 			<br><br>
 			<h2>Monobouliste</h2>
@@ -633,11 +579,6 @@
 			&nbsp &nbsp Un jour peut-être.
 			</section>
 			<br><br>
-			<h2>Plan B</h2>
-			<section>
-			&nbsp &nbsp Voir “IUT”
-			</section>
-			<br><br>
 			<h2>Post-partiel</h2>
 			<section>
 			&nbsp &nbsp Cachez les cautions.
@@ -677,7 +618,7 @@
 			<br><br>
 			<h2>Rallye</h2>
 			<section>
-			&nbsp &nbsp Ceci n’est pas un rallye. (Repose ton verre je te tiens à l’oeil)
+			&nbsp &nbsp Une activité de découverte de Lyon le jeudi de la rentrée.
 			</section>
 			<br><br>
 			<h2>Rat</h2>
@@ -805,20 +746,10 @@
 			&nbsp &nbsp Que des A10.
 			</section>
 			<br><br>
-			<h2>Wiedemann</h2>
-			<section>
-			&nbsp &nbsp Cette définition n’appelle pas de réponse immédiate.
-			</section>
-			<br><br>
 		<h3>Ca commence par X...</h3>
 			<h2>X</h2>
 			<section>
 			&nbsp &nbsp Y’a un trésor par là
-			</section>
-			<br><br>
-			<h2>XXx</h2>
-			<section>
-			&nbsp &nbsp Ici les triples inconnues c’est sans Vin Diesel.
 			</section>
 			<br><br>
 			<h2>(x²)²</h2>

@@ -106,7 +106,7 @@
 				</section>
 				
 				<h2>Le WEI: </h2>
-				<img class="image2" src = "../../images/arriv_agrabah/wei.png">
+				<img class = "image2" src = "../../images/arriv_agrabah/log-wei-rose.png">
 				<section id="paraf1"> &nbsp &nbsp &nbsp Voici enfin l’étape finale de l’inté et c’est du TRES TRES LOURD ! Organisé par les <a class="def_Link" href="javascript:definition('def_Pc');">CoWEI</a>, cela fait un an qu'ils préparent cet
 					événement de type ENORME. Tout ce qu’on peut te dire c’est qu’il n’est à manquer sous aucun prétexte ! On te l’assure mon cher Aladdin, tu n’es 
 					vraiment pas prêt pour ce que tu vas vivre (tu verras, après avoir vécu ce week-end, tu les kifferas au moins autant qu’Aladdin kiffe Jasmine).
@@ -121,7 +121,7 @@
 					supervisées par l’équipe CoWEI. Logement, repas, activités, trajets, 
 					sécurité, etc. ON S’OCCUPE DE TOUT !
 				</section>
-				<img class = "image1" src = "../../images/arriv_agrabah/log-wei-rose.png">
+				
 			<br>
 			<!--<?php include("copryrights.php");?>-->	
 		</div>

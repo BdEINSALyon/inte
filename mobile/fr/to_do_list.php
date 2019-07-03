@@ -43,7 +43,7 @@
 			<section>
 			&nbsp &nbsp   S’inscrire au WEI et prendre ta carte VA (sans quoi tu ne peux pas y aller). Clique sur le bouton « Choppe ta place au wei » pour obtenir les informations. Dépêche-toi, les places sont limitées.
 			</section><br>
-			<button onclick="window.location.href = '../../download_content/wei.pdf';" class="quick_button">LE WEI</button>
+			<button onclick="window.location.href = '../../download_content/wei.pdf';" class="quick_button">LE WEI ET LA VA</button>
 			<br><br>
 			<h2>Pendant les vacances mais plutôt vers la fin </h2>
 			<section>
