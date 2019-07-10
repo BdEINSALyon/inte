@@ -1,7 +1,16 @@
 <!DOCTYPE html>
 <html>
 	<head>
-	
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143625507-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            
+            gtag('config', 'UA-143625507-1');
+        </script>
+
 		<title>Integration 2019 - BDE INSA Lyon</title>
 		<link rel="icon" type="image/png" href="../../images/global/cdp_logo.png" />
 		<meta charset = "utf-8">
