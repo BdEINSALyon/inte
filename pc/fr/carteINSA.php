@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<<<<<<< pc/fr/carteINSA.php
 
 <head>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
