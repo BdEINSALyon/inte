@@ -28,7 +28,7 @@
 	
 		<div id = "pageContent">
 			<section>
-				Work still in progress !
+				Sorry, this page is only available in french. And you can see another map <a href="https://www.insa-lyon.fr/fr/carte/campus" target="_blank">here</a>.
 			</section>
 			<br>
 			<!--<?php include("copryrights.php");?>-->		

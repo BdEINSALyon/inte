@@ -29,7 +29,8 @@
 	
 		<div id = "pageContent">
 			<section>
-				On bosse encore sur la carte de ton campus, repasse plus tard ! (en vrai on fait genre qu'on bosse mais on a juste la flemme)
+				La carte est seulement disponible sur un ordinateur.
+				Tu peux en voir une autre <a href="https://www.insa-lyon.fr/fr/carte/campus" target="_blank">ici</a>.
 			</section>
 		</div>
 		

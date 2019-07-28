@@ -29,7 +29,8 @@
 	
 		<div id = "pageContent">
 			<section>
-				On bosse encore sur la carte de ton campus, repasse plus tard ! (en vrai on fait genre qu'on bosse mais on a juste la flemme)
+				This page is only available on a computer and in french.
+				But you can see another map <a href="https://www.insa-lyon.fr/fr/carte/campus" target="_blank">here</a>.
 			</section>
 		</div>
 		
