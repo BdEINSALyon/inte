@@ -27,3 +27,11 @@
 	line-height:1.2;
 	box-shadow: -2px -2px 7px 1px rgba(0,0,0,0.4), 2px 2px 7px 1px rgba(0,0,0,0.4);
 }
+
+.map-container {
+	display: flex;
+	margin-top: 2%;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+}
